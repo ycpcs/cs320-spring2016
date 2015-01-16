@@ -3,6 +3,8 @@ layout: default
 title: "Schedule"
 ---
 
+*Preliminary schedule, not official yet*
+
 This is the schedule for the course.  It may be updated from time to time.  Updates will be announced in class.
 
 **Important**: Do the reading *before* you come to class!
@@ -34,27 +36,27 @@ Mar 4 | Winter vacation, no class
 Mar 6 | Winter vacation, no class
 Mar 9 | Databases, SQL | [Lecture 9: Relational Databases](lectures/lecture09.html)
 Mar 11 | Database applications, JDBC | [Lecture 10: Database applications, JDBC](lectures/lecture10.html)
-Mar 13 | Team progress report 1
+Mar 13 | Team project progress report 1
 Mar 16 | ORM | [Lecture 11: ORM, Designing a Persistence Layer](lectures/lecture11.html)
 Mar 18 |
-Mar 20 | Team progress report 2
+Mar 20 | Individual project progress report 1
 Mar 23 | Testing, code coverage | [Lecture 12: Testing](lectures/lecture12.html)
 Mar 25 |
-Mar 27 | Team progress report 3
+Mar 27 | Team project progress report 2
 Mar 30 |
 Apr 1 |
 Apr 3 | Spring vacation, no class
 Apr 6 | Spring vacation, no class
 Apr 8 |
-Apr 10 | Team progress report 4
+Apr 10 | Individual project progress report 2
 Apr 13 |
 Apr 15 |
-Apr 17 | Team progress report 5
+Apr 17 | Team project progress report 3
 Apr 20 |
 Apr 22 |
-Apr 24 | Team progress report 6
+Apr 24 | Individual project progress report 3
 Apr 27 |
 Apr 29 |
-May 1 | Team progress report 7
+May 1 | Team project progress report 4
 May 4 |
-May 6 |
+May 6 | Individual project progress report 4
