@@ -141,7 +141,7 @@ Late assignments will be marked down 20% per day late. **No credit will be given
 
 ### Exams
 
-No make-up exams will be given without approval of the instructor prior to class unless proof of extreme emergency or illness is provided. All exams will be open book and open notes.
+No make-up exams will be given without approval of the instructor prior to class unless proof of extreme emergency or illness is provided. All exams will be open book.
 
 ### Attendance and Participation
 
