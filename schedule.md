@@ -30,7 +30,7 @@ Feb 18 | Version control | [Git for Designers](http://hoth.entp.com/output/git_f
 Feb 20 | Version control lab |
 Feb 23 | HTML and CSS | [Lecture 7: HTML and CSS](lectures/lecture07.html)
 Feb 25 | Web applications | [Lecture 8: Web applications](lectures/lecture08.html)
-Feb 27 | Exam 1 (in class)
+Feb 27 | **Exam 1** (in class)
 Mar 2 | Winter vacation, no class
 Mar 4 | Winter vacation, no class
 Mar 6 | Winter vacation, no class
@@ -41,10 +41,10 @@ Mar 16 | ORM | [Lecture 11: ORM, Designing a Persistence Layer](lectures/lecture
 Mar 18 |
 Mar 20 | Individual project progress report 1
 Mar 23 | Testing, code coverage | [Lecture 12: Testing](lectures/lecture12.html)
-Mar 25 |
+Mar 25 | Ensuring Code Quality | [Lecture 13: Ensuring Code Quality](lectures/lecture13.html)
 Mar 27 | Team project progress report 2
-Mar 30 |
-Apr 1 |
+Mar 30 | Static Analysis | [Lecture 14: Static Analysis](lectures/lecture14.html)
+Apr 1 | **Exam 2** (in class)
 Apr 3 | Spring vacation, no class
 Apr 6 | Spring vacation, no class
 Apr 8 |
