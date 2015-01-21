@@ -3,8 +3,6 @@ layout: default
 title: Syllabus
 ---
 
-*Preliminary syllabus, not official*
-
 CS 320 - Software Engineering and Design
 ========================================
 
