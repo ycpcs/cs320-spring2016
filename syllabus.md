@@ -16,7 +16,7 @@ Class times:
 
 Instructor:
 
--   [David Hovemeyer](http://faculty.ycp.edu/~dhovemey/), <dhovemey@ycp.edu>, KEC 113 <br /> Office hours: TBA
+-   [David Hovemeyer](http://faculty.ycp.edu/~dhovemey/), <dhovemey@ycp.edu>, KEC 113 <br /> Office hours: MWF 10-11, T/Th 11-12
 
 Course Description
 ------------------
