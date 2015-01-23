@@ -3,8 +3,6 @@ layout: default
 title: "Schedule"
 ---
 
-*Preliminary schedule, not official yet*
-
 This is the schedule for the course.  It may be updated from time to time.  Updates will be announced in class.
 
 **Important**: Do the reading *before* you come to class!
