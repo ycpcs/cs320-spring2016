@@ -13,3 +13,4 @@ Assignment | Type | Due
 [Assignment 2: Individual project proposal](assign02.html) | Individual | Wed, Feb 4th by 11:59 PM
 [Assignment 3: Team Project Milestones](assign03.html) | Team | See description
 [Assignment 4: Individual Project Milestones](assign04.html) | Individual | See description
+[Assignment 5: Use cases](assign05.html) | Team | Mon, Feb 9th by 11:59 PM

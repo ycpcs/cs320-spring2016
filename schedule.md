@@ -18,7 +18,7 @@ Jan 26 | Extreme Programming | XP, Chapters 1&ndash;5
 Jan 28 | Extreme Programming, Practices | XP, Chapters 6&ndash;7
 Jan 30 | Requirements | UD, Chapter 9, [Lecture 3: Requirements, Use Cases](lectures/lecture03.html)
 Feb 2 | Use case exercise |
-Feb 4 | UML | UD, Chapter 3, [Lecture 4: UML class diagrams](lectures/lecture04.html), [Lecture 5: OO Analysis.html](lectures/lecture05.html)
+Feb 4 | UML, OO Analysis | UD, Chapter 3, [Lecture 4: UML class diagrams](lectures/lecture04.html), [Lecture 5: OO Analysis.html](lectures/lecture05.html)
 Feb 6 | OO Analysis exercise | 
 Feb 9 | Group work: analysis model for team project
 Feb 11 | Analysis model presentations and discussion

@@ -18,6 +18,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Feb 2** - [Assignment 5](assign/assign05.html) is due Monday, Feb 9th by 11:59 PM.
 * **Feb 2** - The [Schedule](schedule.html) has been updated (reading assignment for Feb 4th changed.)
 * **Jan 28** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones.
 * **Jan 28** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
