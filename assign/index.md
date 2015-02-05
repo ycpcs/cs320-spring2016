@@ -14,3 +14,4 @@ Assignment | Type | Due
 [Assignment 3: Team Project Milestones](assign03.html) | Team | See description
 [Assignment 4: Individual Project Milestones](assign04.html) | Individual | See description
 [Assignment 5: Use cases](assign05.html) | Team | Mon, Feb 9th by 11:59 PM
+[Assignment 6: Problem domain analysis](assign06.html) | Team | Wed, Feb 18th by 11:59 PM
