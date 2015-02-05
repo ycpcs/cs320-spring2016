@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Lab 8: ORM"
+title: "Lab 6: ORM"
 ---
 
 # Getting Started
 
-Download [CS320\_Lab08.zip](CS320_Lab08.zip). Import it into your Eclipse workspace (**File&rarr;Import...&rarr;General&rarr;Existing projects into workspace&rarr;Archive File**). You will see a project called **CS320\_Lab08** in the Package Explorer.
+Download [CS320\_Lab06.zip](CS320_Lab06.zip). Import it into your Eclipse workspace (**File&rarr;Import...&rarr;General&rarr;Existing projects into workspace&rarr;Archive File**). You will see a project called **CS320\_Lab06** in the Package Explorer.
 
 Start by creating the **test.db** file that creates the initial [books database](../lectures/lecture11.html).  (Note that there are some minor differences in the relations, specifically the addition of an **id** field to the **books** relation.)  Execute the **SqliteDatabase** class as a Java application: you should see the following output:
 
@@ -19,7 +19,7 @@ You may work individually or with a small group.
 
 In the lab skeleton you will find a program called **TitleQuery** which demonstrates using an ORM interface to find all books that have the title entered by the user (along with the author information).
 
-Your task is very similar to [Lab 7](lab07.html), except that rather than directly executing database queries/statements, you will add methods to the **IDatabase** interface and implement them in **FakeDatabase** and **SqliteDatabase**.
+Your task is very similar to [Lab 5](lab05.html), except that rather than directly executing database queries/statements, you will add methods to the **IDatabase** interface and implement them in **FakeDatabase** and **SqliteDatabase**.
 
 Tasks:
 
