@@ -7,7 +7,7 @@ This page links to useful resources.
 
 [Fetching and merging changes from within Eclipse](fetchMerge.html)
 
-Violet UML: [violetumleditor-2.0.0.jar](violetumleditor-2.0.0.jar)
+Violet UML: [violetumleditor-2.1.0.jar](violetumleditor-2.1.0.jar)
 
 [CS320\_Derby.zip](CS320_Derby.zip) &mdash; Eclipse project with jarfiles for Apache Derby (relational database)
 
