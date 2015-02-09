@@ -19,6 +19,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Feb 9** - For the in-class presentations of your group's work-in-progress analysis models on Wednesday: please use [Violet UML](http://alexdp.free.fr/violetumleditor/page.php) to create a nicely-formatted electronic version of your team's model.  You can download the jarfile from the [Resources](resources/index.html) page.
 * **Feb 5** - [Assignment 6](assign/assign06.html) is due Wednesday, Feb 18th by 11:59 PM.
 * **Feb 4** - The [Activities](activities.html) page links to the results of in-class activities.
 * **Feb 2** - [Assignment 5](assign/assign05.html) is due Monday, Feb 9th by 11:59 PM.
