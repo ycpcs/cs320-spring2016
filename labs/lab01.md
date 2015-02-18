@@ -15,6 +15,8 @@ Be aware of the following fact:
 Git has a bit of a learning curve.
 </div>
 
+Ok, I'll admit I'm downplaying the learning curve a bit here.  You will probably find Git to be fairly confusing for a while.  Eventually, it will make sense.  I promise.
+
 As with most worthwhile skills, becoming proficient with Git takes some work.  The best advice is to *think carefully* about what you're doing.
 
 Another thing to keep in mind:
@@ -27,16 +29,11 @@ Like [OO Analysis](../lectures/lecture05.html), Git proficiency is a software de
 
 ## Step 1: Create an ssh keypair
 
-Execute the following commands in Cygwin terminal:
+Execute the following commands in a terminal window:
 
-::
-
-	export HOME=/cygdrive/h
 	ls ~/.ssh
 
 If this command shows the files **id\_rsa** and **id\_rsa.pub**, then you can continue to Step 2.  Otherwise, execute the following commands:
-
-::
 
 	ssh-keygen -t rsa -b 2048
 
@@ -50,11 +47,9 @@ Click on the **SSH keys** item on the left side of the account settings page.
 
 Click the **Add SSH key** button at the top right of the SSH Keys list.
 
-Enter "YCP" as the title.  In Notepad++, open the file **H:/.ssh/id\_rsa.pub**.  Copy the text in this file, and copy it into the Key textbox.  Then press the **Add key** button.  You might need to enter the password for your GitHub account.
+Enter "YCP" as the title.  In a text editor (**Accessories &rarr; Text Editor**), open the file **.ssh/id\_rsa.pub**.  Copy the text in this file, and copy it into the Key textbox.  Then press the **Add key** button.  You might need to enter the password for your GitHub account.
 
 ## Step 3: Fork
-
-Log into [GitHub](https://github.com) using your GitHub account.
 
 Go to the following GitHub repository page:
 
@@ -68,7 +63,9 @@ The repository you just forked contains an Eclipse project called **MoveTheSquar
 
 Start Eclipse.  Choose **Window &rarr; Preferences &rarr;** to open the preferences dialog.
 
+<!--
 Choose **General &rarr; Network Connections &rarr; SSH2**.  Make sure that **SSH2 home** is set to **H:/.ssh** and also that **Private keys** is set to **id\_dsa,id\_rsa**.
+-->
 
 Next, choose **Team &rarr; Git &rarr; Configuration**.  Use **Add Entry...** to create the following configuration entries:
 
@@ -79,6 +76,8 @@ Next, choose **Team &rarr; Git &rarr; Configuration**.  Use **Add Entry...** to 
 > core.autocrlf | true
 > core.fileMode | false
 
+**Note**: If you are developing on Linux or MacOS, it should be fine to set **core.fileMode** to **true**.
+
 Use appropriate values for *your email* and *your name*. If you would prefer not to reveal your real name and email address, that's fine.
 
 Also note the following:
@@ -86,6 +85,8 @@ Also note the following:
 <div class="callout">
 It is <i>extremely</i> important that you set the <b>core.autocrlf</b> setting to <b>true</b>.  If you do not do this, you will experience horrible problems when you try to synchronize your work with your teammates' work.  You will also incur my wrath.  Do not incur my wrath.
 </div>
+
+(If all of the members of your team are using Linux or MacOS, you will probably not need to worry about this.)
 
 ## Step 5: Clone your fork of the repository
 
@@ -142,6 +143,8 @@ If you see a merge conflict where a conflict marker shows a conflict between two
 <div class="callout">
 <span style="font-size: 200%;"><i>Prepare to experience my wrath!</i></span>
 </div>
+
+(Again, if no one on your team is using Windows, you will probably not need to worry about this.)
 
 ### Pushing following a merge
 
