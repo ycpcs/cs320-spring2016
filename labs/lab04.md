@@ -35,7 +35,7 @@ Next, use **import** commands to load data into these tables:
 
 Your database is now populated with data.
 
-The schemas of the database tables are described in the notes for [Lecture 9](../lectures/lecture9.html).
+The schemas of the database tables are described in the notes for [Lecture 9](../lectures/lecture09.html).
 
 Task
 ====
