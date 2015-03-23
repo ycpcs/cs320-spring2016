@@ -20,6 +20,8 @@ All information about the course will be posted here.
 
 ## News
 
+* **Mar 23** - Exam 2 will take place in class on Wednesday, April 1st.  It will be open book, but closed notes.  A practice exam is available on the [Practice Exams](practice/index.html) page.
+* **Mar 23** - [Assignment 7](assign/assign07.html) is due Friday, April 10th by 11:59 PM.  It is an individual assignment.
 * **Feb 23** - Exam 1 will be open book, but closed notes.  So, please bring your textbooks to the exam.
 * **Feb 18** - Exam 1 will take place in class on Friday, Feb 27th.  A practice exam is available on the [Practice Exams](practice/index.html) page.
 * **Feb 9** - For the in-class presentations of your group's work-in-progress analysis models on Wednesday: please use [Violet UML](http://alexdp.free.fr/violetumleditor/page.php) to create a nicely-formatted electronic version of your team's model.  You can download the jarfile from the [Resources](resources/index.html) page.
