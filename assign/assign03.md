@@ -10,8 +10,8 @@ This document describes the expectations for each milestone.
 > Date | Milestone
 > ---- | ---------
 > Mar 13 | Milestone 1: Minimal Working System
-> Mar 27 | Milestone 2: Persistence using SQL database
-> Apr 17 | Milestone 3: "75%" Working System
+> Mar 27 | Milestone 2: Progress on features
+> Apr 17 | Milestone 3: "75%" Working System, Persistence using SQL database
 > May 1 | Milestone 4: "95%" Working System
 
 ## Expectations
@@ -24,9 +24,9 @@ This document describes the expectations for each milestone.
 
 The idea of a minimal working system is to create a working foundation early in the project's development.  Subsequent iterations of the development process will build upon this foundation to implement additional features.
 
-**Milestone 2: Persistence using SQL database**. Your team should demonstrate that there is a working implementation of the persistence interface that uses an SQL database to store and retrieve data (e.g., using Derby).
+**Milestone 2: Progress on features**.  In this milestone, your team should demonstrate some progress on features, such that at least some use cases are fully or partially implemented.  It is fine if your system is using the "fake" database at this point.
 
-**Milestone 3: "75%" Working System**. Your team should demonstrate a working system that implements most of the major system requirements.  Note that it is not expected that the system has a high degree of "polish": the UI doesn't have to be beautiful, for example.  However, the features that are implemented should be functional and free of bugs.
+**Milestone 3: "75%" Working System, Persistence using SQL database**. Your team should demonstrate a working system that implements most of the major system requirements.  Also, Your team should demonstrate that there is a working implementation of the persistence interface that uses an SQL database to store and retrieve data (e.g., using Derby).  Note that it is not expected that the system has a high degree of "polish": the UI doesn't have to be beautiful, for example.  However, the features that are implemented should be functional and free of bugs.
 
 **Milestone 4: "95%" Working System**. Your team should demonstrate a working system that is nearly complete.  Nearly all of the required features should be implemented.  The system should have a reasonable degree of "polish".  Your team should be prepared to discuss what remains in order to reach a point where the system is complete.
 
