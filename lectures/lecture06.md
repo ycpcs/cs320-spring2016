@@ -123,17 +123,19 @@ In a geometric sense, a square is certainly a rectangle.
 
 However, in an OO sense, it is not necessarily the case that a Square *behaves like* a Rectangle. Consider:
 
-    public class Rectangle {
-       ...
+{% highlight java %}
+public class Rectangle {
+   ...
 
-       public int getWidth() { ... }
+   public int getWidth() { ... }
 
-       public int getHeight() { ... }
+   public int getHeight() { ... }
 
-       public void setWidth(int w) { ... }
+   public void setWidth(int w) { ... }
 
-       public void setHeight(int h) { ... }
-    }
+   public void setHeight(int h) { ... }
+}
+{% endhighlight %}
 
 If we make Square a subclass of Rectangle, how will it implement setWidth and setHeight?
 
