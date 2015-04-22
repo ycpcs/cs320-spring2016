@@ -20,6 +20,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Apr 22** - [Assignment 8](assign/assign08.html) describes the deliverables for the team project.
 * **Mar 24** - [Assignment 3](assign/assign03.html) (team project milestones) has been updated.  Specifically, SQL database functionality is not required for the second milestone (but *is* required for the third.)
 * **Mar 23** - Exam 2 will take place in class on Wednesday, April 1st.  It will be open book, but closed notes.  A practice exam is available on the [Practice Exams](practice/index.html) page.
 * **Mar 23** - [Assignment 7](assign/assign07.html) is due Friday, April 10th by 11:59 PM.  It is an individual assignment.
