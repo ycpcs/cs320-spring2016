@@ -9,7 +9,7 @@ This is an **individual** project
 
 # Individual Project Deliverables
 
-There are three deliverables for your individual project (which you proposed in [Assignment 2](assign02.html)).
+There are two deliverables for your individual project (which you proposed in [Assignment 2](assign02.html)).
 
 ## Report
 
