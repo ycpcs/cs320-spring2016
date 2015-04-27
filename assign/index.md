@@ -17,3 +17,4 @@ Assignment | Type | Due
 [Assignment 6: Problem domain analysis](assign06.html) | Team | Wed, Feb 18th by 11:59 PM
 [Assignment 7: Using Static Analysis](assign07.html) | Individual | Fri, Apr 10th by 11:59 PM
 [Assignment 8: Team Project Deliverables](assign08.html) | Team | See description
+[Assignment 9: Individual Project Deliverables](assign09.html) | Individual | Fri, May 8th by 11:59 PM
