@@ -39,7 +39,7 @@ Submit a 2-3 page report describing:
 
 Also, don't forget to include the "main" repository URL as mentioned above.
 
-Submit the report to Marmoset as **assign07report**.  Use *only* plain text of PDF: do *not* upload a Microsoft Word or rich text document.
+Submit the report to Marmoset as **assign08report**.  Use *only* plain text of PDF: do *not* upload a Microsoft Word or rich text document.
 
 <div class="callout">
 Your report <em>must</em> be submitted in plain text or PDF format.  Submissions in any other format may receive a grade of 0.
