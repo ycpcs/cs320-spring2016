@@ -19,7 +19,7 @@ All information about the course will be posted here.
 * [Practice Exams](practice/index.html)
 
 ## News
-
+<!-- Just commenting out last year's News - will likely recycle it
 * **Apr 28** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is a self/peer evaluation for the team project.  They are both due Tuesday, May 12th by 11:59 PM.
 * **Apr 27** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.
 * **Apr 22** - [Assignment 8](assign/assign08.html) describes the deliverables for the team project.
@@ -36,7 +36,8 @@ All information about the course will be posted here.
 * **Jan 28** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones.
 * **Jan 28** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
 * **Jan 21** - [Assignment 1](assign/assign01.html) and [Assignment 2](assign/assign02.html) are posted, and are due Wed, Jan 28th and Wed, Feb 4th respectively.
-* **Jan 21** - Welcome back!
+­-->
+* **Jan 20** - Welcome back!
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->

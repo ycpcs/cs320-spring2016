@@ -6,7 +6,7 @@ title: Syllabus
 CS 320 - Software Engineering and Design
 ========================================
 
-**Spring 2015**
+**Spring 2016**
 
 Class times:
 
@@ -16,7 +16,7 @@ Class times:
 
 Instructor:
 
--   [David Hovemeyer](http://faculty.ycp.edu/~dhovemey/), <dhovemey@ycp.edu>, KEC 113 <br /> Office hours: MWF 10-11, T/Th 11-12
+-   [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, KEC 113 <br /> Office hours: MWF 10-11, T/Th 10-11
 
 Course Description
 ------------------
