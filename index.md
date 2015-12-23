@@ -37,7 +37,7 @@ All information about the course will be posted here.
 * **Jan 28** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
 * **Jan 21** - [Assignment 1](assign/assign01.html) and [Assignment 2](assign/assign02.html) are posted, and are due Wed, Jan 28th and Wed, Feb 4th respectively.
 ­-->
-* **Jan 20** - Welcome back!
+* **Jan 20** - Welcome back to KEC!
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
