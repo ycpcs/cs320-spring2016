@@ -10,13 +10,13 @@ CS 320 - Software Engineering and Design
 
 Class times:
 
-- Section 101: M/W/F 9 AM - 10 AM in KEC 119
-- Section 102, M/W/F 11 AM - 12 PM in KEC 119
-- Section 103, M/W/F 1 PM - 2 PM in KEC 119
+- Section 101: M / W / F  9:00 AM -  9:50 AM in KEC 119
+- Section 102, M / W / F 11:00 AM - 11:50 AM in KEC 119
+- Section 103, M / W / F  1:00 PM -  1:50 PM in KEC 119
 
 Instructor:
 
--   [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, KEC 113 <br /> Office hours: MWF 10-11, T/Th 10-11
+-   [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, KEC 137 <br /> Office Hours: M / W / F 10:00-11:00, T / Th 10:00 - 11:00
 
 Course Description
 ------------------
@@ -26,9 +26,9 @@ This course describes the software development process in detail, including the 
 Prerequisites
 -------------
 
-CS 201 with a grade of 2 or higher
+CS 201 with a grade of 2.0 or higher
 
-Textbook
+Textbooks
 --------
 
 Kent Beck and Cynthia Andres, [Extreme Programming Explained](http://www.informit.com/store/product.aspx?isbn=0321278658), 2nd ed.
@@ -81,13 +81,13 @@ Your overall grade for the course will be determined as follows:
 -   Midterm exams: 30%
 -   Attendance and participation: 5%
 
-**(&dagger;)** You must make a good faith effort to complete all of the assignments in order to pass the course.  Failure to complete all assignments is grounds for receiving a failing grade for the course.
+**(&dagger;)** You must make a good faith effort to complete all of the assignments in order to pass the course.  Failure to complete all assignments is grounds for receiving a reduced or failing grade for the course.
 
 **(\*)** You must make a substantial *technical* contribution to your team software project. Although the non-technical contributions you make to your project, such as planning, communication, and organization, are important, you must also make a substantial contribution to the design and implementation of the software. I reserve the right to assign a failing grade for the course to any student who does not do this.
 
 ### Course website
 
-Please check the course web page, <http://ycpcs.github.io/cs320-spring2015/>, regularly for important announcements.
+Please check the course web page, <http://ycpcs.github.io/cs320-spring2016/>, regularly for important announcements.
 
 ### Attendance
 
@@ -107,7 +107,7 @@ Because we will be using class time primarily for discussion and activities, rat
 
 ### Posting and submission of assignments and labs
 
-Assignments and labs will be posted as zip files on the course web page, <http://ycpcs.github.io/cs320-spring2015/>.
+Assignments and labs will be posted as zip files on the course web page, <http://ycpcs.github.io/cs320-spring2016/>.
 
 Assignments will be submitted using the server <https://cs.ycp.edu/marmoset/>. You will receive an email containing the username and password you should use for this server.
 
@@ -135,7 +135,7 @@ Any violation of the course's academic integrity policy will be referred to the 
 
 ### Late Assignments
 
-Late assignments will be marked down 20% per day late. **No credit will be given for assignments that are more than two (2) days late.**
+Late assignments will be marked down 10% per day late. **No credit will be given for assignments that are more than two (2) days late.**
 
 ### Exams
 
