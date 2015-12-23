@@ -10,13 +10,13 @@ CS 320 - Software Engineering and Design
 
 Class times:
 
-- Section 101: M / W / F  9:00 AM -  9:50 AM in KEC 119
-- Section 102, M / W / F 11:00 AM - 11:50 AM in KEC 119
-- Section 103, M / W / F  1:00 PM -  1:50 PM in KEC 119
+- Section 101: M/W/F  9:00 -  9:50 AM in KEC 119
+- Section 102: M/W/F 11:00 - 11:50 AM in KEC 119
+- Section 103: M/W/F  1:00 -  1:50 PM in KEC 119
 
 Instructor:
 
--   [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, KEC 137 <br /> Office Hours: M / W / F 10:00-11:00, T / Th 10:00 - 11:00
+-   [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, KEC 137 <br /> Office Hours: M/W/F 10:00 - 11:00, T/Th 10:00 - 11:00
 
 Course Description
 ------------------
