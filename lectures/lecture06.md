@@ -57,7 +57,7 @@ Instead, what we can do is take an existing design and judge it according to the
 
 Today, we will talk about some of the important OO design principles. These principles are the product of many years of experience building object-oriented software.
 
-From: [Design Principles and Design Patterns](lecture06/Principles_and_Patterns.pdf) by [Robert C. Martin](http://www.objectmentor.com/omTeam/martin_r.html) of [ObjectMentor](http://www.objectmentor.com/).
+From: [Design Principles and Design Patterns](lecture06/Principles_and_Patterns.pdf) by [Robert C. Martin](https://sites.google.com/site/unclebobconsultingllc/).
 
 Open/Closed Principle (OCP)
 ---------------------------
