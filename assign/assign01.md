@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 1: Project Proposal"
 ---
 
-**Due: Wednesday, Jan 28th by 11:59 PM**
+**Due: Wednesday, Jan 27th by 11:59 PM**
 
 This is a **Team** assignment.
 
@@ -26,7 +26,7 @@ In a 2-3 page document, describe the following:
 
 In your description of the system, include sketches of what the user interface will look like.
 
-**What language(s) and programming environment will you use?** My strong recommendation is to use Java and Eclipse, using Java servlets and Java Server Pages (JSPs).  I would recommend that you do *not* use client-side JavaScript.
+**What language(s) and programming environment will you use?** My **strong** recommendation is to use Java and Eclipse, using Java servlets and Java Server Pages (JSPs).  I would recommend that you do *not* use client-side JavaScript.
 
 I *strongly* recommend that you discuss your idea with me before you submit your proposal.
 
