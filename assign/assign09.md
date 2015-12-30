@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 9: Individual Project Deliverables"
 ---
 
-**Due: Friday, May 8th by 11:59 PM**
+**Due: Friday, May 6th by 11:59 PM**
 
 This is an **individual** project
 
@@ -25,7 +25,7 @@ Submit the code you developed for the project.
 
 # Submitting
 
-Submit the report to Marmoset as **assign09report**.  Use *only* plain text of PDF: do *not* upload a Microsoft Word or rich text document.
+Submit the report to Marmoset as **assign09report**.  Use *only* plain text or PDF: do *not* upload a Microsoft Word or rich text document.
 
 <div class="callout">
 Your report <em>must</em> be submitted in plain text or PDF format.  Submissions in any other format may receive a grade of 0.

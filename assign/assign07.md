@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 7: Using Static Analysis"
 ---
 
-**Due: Friday, April 10th by 11:59 PM**
+**Due: Friday, April 8th by 11:59 PM**
 
 This is an **Individual** assignment
 

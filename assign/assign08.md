@@ -3,9 +3,9 @@ layout: default
 title: "Assignment 8: Team Project Deliverables"
 ---
 
-**Code and report due:** Friday, May 8th by 11:59
+**Code and report due:** Friday, May 6th by 11:59
 
-**Presentations**: Wednesday, May 13th
+**Presentations**: Wednesday, May 11th
 
 -   Section 101: 8:00 AM &ndash; 10:00 AM
 -   Section 102: 10:15 AM &ndash; 12:15 PM
@@ -39,7 +39,7 @@ Submit a 2-3 page report describing:
 
 Also, don't forget to include the "main" repository URL as mentioned above.
 
-Submit the report to Marmoset as **assign08report**.  Use *only* plain text of PDF: do *not* upload a Microsoft Word or rich text document.
+Submit the report to Marmoset as **assign08report**.  Use *only* plain text or PDF: do *not* upload a Microsoft Word or rich text document.
 
 <div class="callout">
 Your report <em>must</em> be submitted in plain text or PDF format.  Submissions in any other format may receive a grade of 0.

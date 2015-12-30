@@ -9,10 +9,10 @@ This document describes the expectations for each milestone.
 
 > Date | Milestone
 > ---- | ---------
-> Mar 13 | Milestone 1: Minimal Working System
-> Mar 27 | Milestone 2: Progress on features
-> Apr 17 | Milestone 3: "75%" Working System, Persistence using SQL database
-> May 1 | Milestone 4: "95%" Working System
+> Mar 11 | Milestone 1: Minimal Working System
+> Mar 30 | Milestone 2: Progress on features
+> Apr 15 | Milestone 3: "75%" Working System, Persistence using SQL database
+> Apr 29 | Milestone 4: "95%" Working System
 
 ## Expectations
 

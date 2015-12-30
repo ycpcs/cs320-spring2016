@@ -13,10 +13,10 @@ This document describes the expectations for each milestone.
 
 > Date | Milestone
 > ---- | ---------
-> Mar 20 | Milestone 1: Baseline
-> Apr 10 | Milestone 2: 33% 
-> Apr 24 | Milestone 3: 67%
-> May 6 | Milestone 4: Final demo
+> Mar 18 | Milestone 1: Baseline
+> Apr 8 | Milestone 2: 33% 
+> Apr 22 | Milestone 3: 67%
+> May 4 | Milestone 4: Final demo
 
 ## Expectations
 
