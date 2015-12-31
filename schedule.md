@@ -24,7 +24,7 @@ Feb 8 | Group work: analysis model for team project
 Feb 10 | Analysis model presentations and discussion
 Feb 12 | Group work: improvements to analysis model for team project
 Feb 15 | OO Design | [Lecture 6: OO Design, OCP, LSP](lectures/lecture06.html), Robert Martin, [Design Principles and Design Patterns](http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf), pages 1-12
-Feb 17 | Version control | [Git for Designers](http://hoth.entp.com/output/git_for_designers.html)
+Feb 17 | Version control | [Git for Designers](https://web.archive.org/web/20150301060509/http://hoth.entp.com/output/git_for_designers.html)
 Feb 19 | Version control lab |
 Feb 22 | HTML and CSS | [Lecture 7: HTML and CSS](lectures/lecture07.html)
 Feb 24 | Web applications | [Lecture 8: Web applications](lectures/lecture08.html)
