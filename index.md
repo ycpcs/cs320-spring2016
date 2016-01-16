@@ -35,8 +35,9 @@ All information about the course will be posted here.
 * **Feb 1** - The [Schedule](schedule.html) has been updated (reading assignment for Feb 4th changed.)
 * **Jan 27** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones.
 * **Jan 27** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
-* **Jan 20** - [Assignment 1](assign/assign01.html) and [Assignment 2](assign/assign02.html) are posted, and are due Wed, Jan 27th and Wed, Feb 3rd respectively.
 ­-->
+* **Jan 20** - [Assignment 1](assign/assign01.html) and [Assignment 2](assign/assign02.html) are posted, and are due Wed, Jan 27th and Wed, Feb 3rd respectively.
+
 * **Jan 20** - Welcome back to KEC!
 
 <!-- vim:set wrap: ­-->
