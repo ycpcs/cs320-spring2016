@@ -109,7 +109,9 @@ Because we will be using class time primarily for discussion and activities, rat
 
 Assignments and labs will be posted as zip files on the course web page, <http://ycpcs.github.io/cs320-spring2016/>.
 
-Assignments will be submitted using the server <https://cs.ycp.edu/marmoset/>. You will receive an email containing the username and password you should use for this server.
+Written assignments will be created and submitted via shared Google Docs.
+
+Programming assignments and labs will be submitted using the server <https://cs.ycp.edu/marmoset/>. You will receive an email containing the username and password you should use for this server.
 
 ### Academic Integrity
 
