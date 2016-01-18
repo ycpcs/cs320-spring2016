@@ -16,7 +16,7 @@ Class times:
 
 Instructor:
 
--   [Donald Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, KEC 137 <br /> Office Hours: M/W/F 10:00 - 11:00, T/Th 10:00 - 11:00
+-   [Donald Hake](http://www.ycp.edu/academics/academic-departments/engineering-and-computer-science/faculty-and-staff/department-employee-records/name-32407-en.html), <djhake2@ycp.edu>, KEC 137 <br /> Office Hours: M/W/F 10:00 - 11:00, T/Th 9:30 - 10:30
 
 Course Description
 ------------------
