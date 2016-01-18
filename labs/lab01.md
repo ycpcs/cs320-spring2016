@@ -53,7 +53,7 @@ Enter "YCP" as the title.  In a text editor (**Accessories &rarr; Text Editor**)
 
 Go to the following GitHub repository page:
 
-  [https://github.com/daveho/MoveTheSquare](https://github.com/daveho/MoveTheSquare)
+  [https://github.com/DonaldHakeII/MoveTheSquare](https://github.com/DonaldHakeII/MoveTheSquare)
 
 Click the **Fork** button.  This will make a clone of this repository in your own GitHub account.  This will be your public repository for this lab.
 
