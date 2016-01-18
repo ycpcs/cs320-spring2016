@@ -63,11 +63,15 @@ Your proposal should be 1-2 pages, and contain the following information:
 Submitting
 ==========
 
-Submit your document in **PDF** format to Marmoset as **assign02**:
+Have one team member create a  folder in Google Docs named "CS320Project-www-xxx-yyy-zzz", replacing "www-xxx-yyy-zzz" with the last names of the members of your project team.
 
-> <https://cs.ycp.edu/marmoset/>
+Then create your Project Proposal in that folder, also using Google Docs.  Share the folder and its contents with all team members and with me.
+
+This folder will be your means of submission for all non-programming-related team assignments.
+
+Name your Project Proposal document **assign01-www-xxx-yyy-zzz**, again substituting the last names of your project team members.
 
 <div class="callout">
-<b>Important</b>: Only submissions in PDF format will be accepted.
+<b>Important</b>: Only submissions in Google Docs will be accepted.
 Do not submit a document in any other format!
 </div>
