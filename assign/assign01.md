@@ -35,7 +35,7 @@ Submitting
 
 Have one team member create a  folder in Google Docs named "CS320-TeamProject-www-xxx-yyy-zzz", replacing "www-xxx-yyy-zzz" with the last names of the members of your project team.
 
-Then create your Project Proposal in that folder, also using Google Docs.  Share the folder and its contents with all team members and with me.
+Then create your Project Proposal in that folder, also using Google Docs.  Share the folder with all team members and with me.
 
 This folder will be your means of submission for all non-programming-related team assignments.
 
