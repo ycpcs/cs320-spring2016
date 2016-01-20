@@ -26,18 +26,18 @@ In a 2-3 page document, describe the following:
 
 In your description of the system, include sketches of what the user interface will look like.
 
-**What language(s) and programming environment will you use?** My **strong** recommendation is to use Java and Eclipse, using Java servlets and Java Server Pages (JSPs).  I would recommend that you do *not* use client-side JavaScript.
+**What language(s) and programming environment will you use?** My **strong** recommendation is to use Java and Eclipse, using Java servlets and Java Server Pages (JSPs).  I also strongly recommend that you do **not** use client-side JavaScript. Also do **not** try to implement a game, as previous history has shown that game development for this class has a low-rate (5%) of success.
 
-I *strongly* recommend that you discuss your idea with me before you submit your proposal.
+I **strongly** recommend that you discuss your idea with me before you submit your proposal.
 
 Submitting
 ==========
 
-Have one team member create a  folder in Google Docs named "CS320-TeamProject-www-xxx-yyy-zzz", replacing "www-xxx-yyy-zzz" with the last names of the members of your project team.
+Have one team member create a  folder in Google Drive named "CS320-TeamProject-www-xxx-yyy-zzz", replacing "www-xxx-yyy-zzz" with the last names of the members of your project team.
 
-Then create your Project Proposal in that folder, also using Google Docs.  Share the folder with all team members and with me.
+Then create your Project Proposal in that folder, using Google Docs.  Share the folder with all team members and with me.
 
-This folder will be your means of submission for all non-programming-related team assignments.
+This folder will be your means of submission for all **non-programming-related team** assignments.
 
 Name your Project Proposal document **assign01-www-xxx-yyy-zzz**, again substituting the last names of your project team members.
 
