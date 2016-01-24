@@ -14,8 +14,8 @@ Date | Topic/Activity | Reading
 ---- | -------------- | -------
 Jan 20 | Course intro | [Lecture 1: Course Overview, OOP](lectures/lecture01.html)
 Jan 22 | Development process, Agile Development | UD, Chapter 2, [Lecture 2: Development Process](lectures/lecture02.html), [Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
-Jan 25 | WOO HOO - Snow Day: Blizzard of 2016 Aftermath
-Jan 27 | Development Process (continued), Group Project Discussions
+Jan 25 | WOO HOO - Snow Day: Blizzard of 2016 Aftermath | Plenty of time to catch up on the reading assignments.
+Jan 27 | Development Process (continued), Group Project Discussions | Make sure to review the questions and discussion topics for the XP readings.
 Jan 29 | Extreme Programming | XP, Chapters 1&ndash;5 (Questions and Discussions)
 Feb 1 | Extreme Programming, Practices | XP, Chapters 6&ndash;7 (Questions and Discussions)
 Feb 3 | Requirements | UD, Chapter 9, [Lecture 3: Requirements, Use Cases](lectures/lecture03.html)
