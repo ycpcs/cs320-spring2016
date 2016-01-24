@@ -63,13 +63,13 @@ Your proposal should be 1-2 pages, and contain the following information:
 Submitting
 ==========
 
-Create a folder in Google Drive named "CS320-IndProject-name", replacing "name" with your last name.
+Create a folder in Google Drive named "CS320-IndProject-userID", replacing "userID" with your YCP User ID.
 
 Then create your Project Proposal in that folder, using Google Docs.  Share the folder and its contents with me.
 
 This folder will be your means of submission for all non-programming-related individual assignments.
 
-Name your Project Proposal document **assign02-name**, again substituting your last name.
+Name your Project Proposal document **assign02-userID**, again substituting your YCP User ID.
 
 <div class="callout">
 <b>Important</b>: Only submissions in Google Docs will be accepted.

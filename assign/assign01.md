@@ -33,13 +33,13 @@ I **strongly** recommend that you discuss your idea with me before you submit yo
 Submitting
 ==========
 
-Have one team member create a  folder in Google Drive named "CS320-TeamProject-www-xxx-yyy-zzz", replacing "www-xxx-yyy-zzz" with the last names of the members of your project team.
+Have one team member create a  folder in Google Drive named "CS320-TeamProject-www-xxx-yyy-zzz", replacing "www-xxx-yyy-zzz" with the YCP User IDs of the members of your project team.
 
 Then create your Project Proposal in that folder, using Google Docs.  Share the folder with all team members and with me.
 
 This folder will be your means of submission for all **non-programming-related team** assignments.
 
-Name your Project Proposal document **assign01-www-xxx-yyy-zzz**, again substituting the last names of your project team members.
+Name your Project Proposal document **assign01-www-xxx-yyy-zzz**, again substituting the YCP User IDs of your project team members.
 
 <div class="callout">
 <b>Important</b>: Only submissions in Google Docs will be accepted.
