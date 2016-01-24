@@ -32,12 +32,16 @@ All information about the course will be posted here.
 * **Feb 5** - [Assignment 6](assign/assign06.html) is due Wednesday, Feb 17th by 11:59 PM.
 * **Feb 3** - The [Activities](activities.html) page links to the results of in-class activities.
 * **Feb 1** - [Assignment 5](assign/assign05.html) is due Monday, Feb 8th by 11:59 PM.
-* **Feb 1** - The [Schedule](schedule.html) has been updated (reading assignment for Feb 4th changed.)
-* **Jan 27** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones.
-* **Jan 27** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
-­-->
-* **Jan 20** - [Assignment 1](assign/assign01.html) and [Assignment 2](assign/assign02.html) are posted, and are due Wed, Jan 27th and Wed, Feb 3rd respectively.
 
+­-->
+* **Jan 25** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones.
+
+* **Jan 25** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
+
+* **Jan 24** - WOO HOO - We got our snow day...!!!  You're never too old to appreciate a snow day...!!!  Almost makes up for the 7 hours of shovelling I invested over the last two days.
+* **Jan 24** - The [Schedule](schedule.html) has been updated for the Group Project Proposal (now Fri, Jan 29), the XP reading assignments (now Fri, Jan 29 and Mon, Feb 1), and the UML Use Case reading (now Wed, Feb 3). The Individual Project Proposal is now due Fri, Feb 5).
+
+* **Jan 20** - [Assignment 1](assign/assign01.html) and [Assignment 2](assign/assign02.html) are posted (see the updated due dates above).
 * **Jan 20** - Welcome back to KEC!
 
 <!-- vim:set wrap: ­-->
