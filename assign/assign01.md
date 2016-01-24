@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 1: Project Proposal"
 ---
 
-**Due: Wednesday, Jan 27th by 11:59 PM**
+**Due: Wednesday, Jan 29th by 11:59 PM**
 
 This is a **Team** assignment.
 

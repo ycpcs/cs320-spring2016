@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 2: Individual Project Proposal"
 ---
 
-**Due: Wednesday, Feb 3rd by 11:59 PM**
+**Due: Friday, Feb 5th by 11:59 PM**
 
 This is an **Individual** assignment.
 
