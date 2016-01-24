@@ -39,7 +39,7 @@ All information about the course will be posted here.
 * **Jan 25** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
 
 * **Jan 24** - WOO HOO - We got our snow day...!!!  You're never too old to appreciate a snow day...!!!  Almost makes up for the 7 hours of shovelling I invested over the last two days.
-* **Jan 24** - The [Schedule](schedule.html) has been updated for the Group Project Proposal (now Fri, Jan 29), the XP reading assignments (now Fri, Jan 29 and Mon, Feb 1), and the UML Use Case reading (now Wed, Feb 3). The Individual Project Proposal is now due Fri, Feb 5).
+* **Jan 24** - The [Schedule](schedule.html) has been updated for the Group Project Proposal (now Fri, Jan 29), the XP reading assignments (now Fri, Jan 29 and Mon, Feb 1), and the UML Use Case reading (now Wed, Feb 3). The Individual Project Proposal is now due Fri, Feb 5). Other schedule dates have been moved out, as well.
 
 * **Jan 20** - [Assignment 1](assign/assign01.html) and [Assignment 2](assign/assign02.html) are posted (see the updated due dates above).
 * **Jan 20** - Welcome back to KEC!
