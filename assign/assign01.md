@@ -30,6 +30,8 @@ In your description of the system, include sketches of what the user interface w
 
 I **strongly** recommend that you discuss your idea with me before you submit your proposal.
 
+Here is a suggested template for the your [Group Project Proposal](CS320_Group_Project_Proposal_Template.pdf).
+
 Submitting
 ==========
 
