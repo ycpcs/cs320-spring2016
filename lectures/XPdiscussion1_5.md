@@ -87,7 +87,7 @@ Finally, the author summarizes XP this way:
 
 **The author makes a lot of claims about XP, as well as states many qualities that XP possesses, including addressing human factors.  He makes it sound like a lifestyle.  Discuss your reaction to what the author has to say in the first chapter about XP?**
 
-**The author makes this statement about estimates and expectations:**
+The author makes this statement about estimates and expectations:
 
 		"If you have six weeks to get a project done, the only thing you control is your own behavior.  Will you get six weeks' worth of work done, or less?  You can't control others' expectation.  You can tell them what you know about the project so that their expectations have a chance of matching reality.  My terror of deadlines vanished when I learned this lesson.  It's not my job to "manage" someone else's expectations.  It's their job to manage their own expectations.  It's my job to do my best and to communicate clearly."
 
@@ -96,7 +96,8 @@ Finally, the author summarizes XP this way:
 Chapter 2: Learning to Drive
 ============
 
-Chapter 2 is all about accepting and adapting to change.  The author states that
+Chapter 2 is all about accepting and adapting to change.  The author states
+
 	"Everything in SW changes.  The requirements change.  The design changes.  The business changes.  The technology changes.  The team changes.  The team members change.  The problem isn't change, because change is going to happen; the problem, rather, is our inability to cope with change."
 	
 XP follows the premise that customers, internal or external, drive change, and that they should not only be "allowed" to drive change, but should be encouraged to drive change, and that they are an integral part of the XP team.	
