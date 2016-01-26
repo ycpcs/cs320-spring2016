@@ -22,7 +22,8 @@ XP includes:
 -	A COMMUNITY that shares these VALUES and many of the same PRACTICES.
 		
 XP is a path to excellence for people coming together to develop SW.  It is distinguished from other methodologies by:
-	Short development cycles, resulting in early, concrete, and continuing feedback.
+
+-	Short development cycles, resulting in early, concrete, and continuing feedback.
 	
 -	An incremental planning approach, which quickly comes up with an overall plan that is expected to evolve through the life of the project.
 	
@@ -81,3 +82,15 @@ Finally, the author summarizes XP this way:
 -	XP is striving to do better tomorrow.
 -	XP is evaluating yourself by your contributions to the team's shared goals.
 -	XP is asking you to get some of your human needs met through SW development.
+
+Chapter 1: Discussion Points
+============
+
+-	We will first discuss XP (as described above) in relation to the Waterfall Model example to be presented in the previous lecture, assuming that XP could be applied to that project.
+
+-	The author makes a lot of claims about XP, as well as states many qualities that XP possesses, including addressing human factors.  He makes it sound like a lifestyle.  Discuss your reaction to what the author has to say in the first chapter about XP?
+
+-	The author makes this statement about estimates and expectations:
+"If you have six weeks to get a project done, the only thing you control is your own behavior.  Will you get six weeks' worth of work done, or less?  You can't control others' expectation.  You can tell them what you know about the project so that their expectations have a chance of matching reality.  My terror of deadlines vanished when I learned this lesson.  It's not my job to "manage" someone else's expectations.  It's their job to manage their own expectations.  It's my job to do my best and to communicate clearly."
+
+-	Who determines how much work is "six weeks' worth of work"?  What if your manager (or your professor) imposes unreasonable/impossible deadlines on you (and/or your team)?  How do you put the author's statement into practice?  There is an inherent conflict here, and imbalance of "power", skewed far to side of the manager.  What do you do to deal with it?  How should a team that is responsible for setting its own estimates deal with the rejection of those estimates?
