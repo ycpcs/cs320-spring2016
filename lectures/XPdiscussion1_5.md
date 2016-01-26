@@ -94,3 +94,11 @@ Chapter 1: Discussion Points
 "If you have six weeks to get a project done, the only thing you control is your own behavior.  Will you get six weeks' worth of work done, or less?  You can't control others' expectation.  You can tell them what you know about the project so that their expectations have a chance of matching reality.  My terror of deadlines vanished when I learned this lesson.  It's not my job to "manage" someone else's expectations.  It's their job to manage their own expectations.  It's my job to do my best and to communicate clearly."
 
 -	Who determines how much work is "six weeks' worth of work"?  What if your manager (or your professor) imposes unreasonable/impossible deadlines on you (and/or your team)?  How do you put the author's statement into practice?  There is an inherent conflict here, and imbalance of "power", skewed far to side of the manager.  What do you do to deal with it?  How should a team that is responsible for setting its own estimates deal with the rejection of those estimates?
+
+Chapter 2: Learning to Drive
+============
+
+Chapter 2 is all about accepting and adapting to change.  The author states that
+	"Everything in SW changes.  The requirements change.  The design changes.  The business changes.  The technology changes.  The team changes.  The team members change.  The problem isn't change, because change is going to happen; the problem, rather, is our inability to cope with change."
+	
+XP follows the premise that customers, internal or external, drive change, and that they should not only be "allowed" to drive change, but should be encouraged to drive change, and that they are an integral part of the XP team.	
