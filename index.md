@@ -33,8 +33,8 @@ All information about the course will be posted here.
 * **Feb 3** - The [Activities](activities.html) page links to the results of in-class activities.
 ­-->
 * **Feb 1** - [Assignment 5](assign/assign05.html) is due Wednesday, Feb 10th by 11:59 PM.
-* **Feb 1** - [Assignment 2](assign/assign02.html) is due Friday, Feb 5th by 11:59 PM).
 * **Feb 1** - I've added a link in [Assignment 2](assign/assign02.html) for a suggested format for the Individual Project Proposal.  Please follow that basic format for your submission.
+* **Feb 1** - [Assignment 2](assign/assign02.html) is due Friday, Feb 5th by 11:59 PM).
 
 * **Jan 26** - I've added links to the XP discussion questions (along with a summary of the XP material) to the schedule page.  Please review the XP reading assignments, keeping in mind the discussion questions (which are in bold).  We will likely not be able to cover all of those questions in class, but you should consider how you would answer them and be prepared to discuss them in class on Friday and Monday.
 
