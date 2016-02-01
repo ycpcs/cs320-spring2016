@@ -43,30 +43,33 @@ Note that although the use case will generally specify a sequence of steps, thes
 
 There may be multiple paths through a use case. For example: if an error occurs, or if there is "optional" behavior seen in some cases, etc.
 
-There are different ways of writing a use case. For some use cases, a single sentence might suffice. For more fully-specified use cases, listing a series of numbered steps is a good approach. The format described in the HFOOA&D book is a good one. As with any documentation, diagram, model, etc., the purpose is the specify an aspect of the system in enough detail to be useful, but not too much detail. Excessive detail is a waste of time.
+There are different ways of writing a use case. For some use cases, a single sentence might suffice. For more fully-specified use cases, listing a series of numbered steps is a good approach. As with any documentation, diagram, model, etc., the purpose is to specify an aspect of the system in enough detail to be useful, but not too much detail. Excessive detail is a waste of time.
 
 Example: Automated Teller Machine
 
-Who are the actors? [Ask for suggestions.]
-
+Who are the actors?
+<!-- commenting out the answers
 -   Customer
 -   Bank system (this is software, but it is external to the ATM system, so it's considered an actor)
 -   Bank employee who adds cash, collects deposits, etc.
+­-->
 
 What are some of the requirements?
-
+<!-- commenting out the answers
 -   customers can access their accounts (withdraw, deposit, check balance, etc.)
 -   the system is secure (only authorized users can use)
 -   etc.
+­-->
 
 What are some scenarios in which the ATM system is used?
-
+<!-- commenting out the answers
 -   withdrawal
 -   deposit
 -   check balance
 -   stock with cash
 -   etc.
+­-->
 
-[Pick a scenario. Solicit ideas to construct a use case.]
+Now let's pick a scenario and construct a use case for that scenario.
 
 What requirement or requirements did this use case address?

@@ -45,15 +45,9 @@ You should write *as many use cases as necessary* to document the important beha
 
 # Submitting your work
 
-Submit a single **PDF file** containing your use cases.
+Create a Google Doc for your group's Use Case document, and name it **assign05-www-xxx-yyy-zzz**, substituting the YCP User IDs of your project team members.  Place the Use Case document under your shared Google Drive Group Project folder.
 
 <div class="callout">
-<b>Important</b>: Your submission <i>must</i> be in PDF format.
+<b>Important</b>: Your submission <i>must</i> be a Google Doc, shared via your Group Project folder.
 Do not submit a file in any other format.
 </div>
-
-Upload the pdf file to the Marmoset server as **assign05**:
-
-> <https://cs.ycp.edu/marmoset/>
-
-Only one team member needs to upload the document.
