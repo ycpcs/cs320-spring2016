@@ -47,21 +47,21 @@ There are different ways of writing a use case. For some use cases, a single sen
 
 Example: Automated Teller Machine
 
-Who are the actors?
+* Who are the actors?
 <!-- commenting out the answers
 -   Customer
 -   Bank system (this is software, but it is external to the ATM system, so it's considered an actor)
 -   Bank employee who adds cash, collects deposits, etc.
 --->
 
-What are some of the requirements?
+* What are some of the requirements?
 <!-- commenting out the answers
 -   customers can access their accounts (withdraw, deposit, check balance, etc.)
 -   the system is secure (only authorized users can use)
 -   etc.
 --->
 
-What are some scenarios in which the ATM system is used?
+* What are some scenarios in which the ATM system is used?
 <!-- commenting out the answers
 -   withdrawal
 -   deposit
@@ -70,6 +70,6 @@ What are some scenarios in which the ATM system is used?
 -   etc.
 --->
 
-Now let's pick a scenario and construct a use case for that scenario.
+* Now let's pick a scenario and construct a use case for that scenario.
 
-What requirement or requirements did this use case address?
+* What requirement or requirements did this use case address?
