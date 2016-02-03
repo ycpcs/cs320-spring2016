@@ -40,27 +40,14 @@ In a text document of 1 page, *briefly* explain your analysis model. Discuss why
 Submitting
 ==========
 
-Create a zip file containing:
+Create a Google Doc for your group's Textual Analysis and the explanation for your Analysis Model, and name it **assign06-www-xxx-yyy-zzz**, substituting the YCP User IDs of your project team members.  Place the Use Case document under your shared Google Drive Group Project folder.
 
-1.  a text document with your textual analysis (noun and verb phrases)
-2.  the Violet UML (.class.violet) file with your analysis model
-3.  a text document with your explanation of the analysis model
+Also post your Violet UML (.class.violet) file with you Analysis Model to the Project folder.  If Violet will output a PDF version of your model, also include the PDF version in your Google doc.
 
-Text documents must be in **PDF** format.
-
-You can create a zip file using Windows by creating a folder, putting some files inside the folder, right-clicking on the folder, and choosing **Send to &rarr; Compressed Folder**.  In Linux, use a terminal to navigate to the parent directory of the directory containing your files, then run the command
-
-<pre>
-zip -9r <i>zipname</i> <i>dirname</i>
-</pre>
-
-where *zipname* is the name of the zip file you want to create, and <i>dirname</i> is the name of the directory containing your files.
-
-Upload the zip file to the Marmoset server as **assign06**:
-
-> <https://cs.ycp.edu/marmoset/>
-
-Only one team member needs to upload the zip file.
+<div class="callout">
+<b>Important</b>: Your submission <i>must</i> be a Google Doc, shared via your Group Project folder.
+Do not submit a document in any other format.
+</div>
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
