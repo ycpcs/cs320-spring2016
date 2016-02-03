@@ -58,39 +58,39 @@ So what does a use case look like?  Here's the example from "UML Distilled", inc
 
 MSS - Main Success Scenario:
 
-1. Customer __**browses catalog and selects items to buy**__
+	1. Customer ***browses catalog and selects items to buy***
 
-2. Customer goes to check out
+	2. Customer goes to check out
 
-3. Customer fills in shipping information (address, shipping info)
+	3. Customer fills in shipping information (address, shipping info)
 
-4. System presents full pricing info, including shipping
+	4. System presents full pricing info, including shipping
 
-5. Customer fills in credit card info
+	5. Customer fills in credit card info
 
-6. System authorizes purchase
+	6. System authorizes purchase
 
-7. System confirms sale immediately
+	7. System confirms sale immediately
 
-8. System sends confirming email to customer
+	8. System sends confirming email to customer
 
 Extensions (alternate paths):
 
-3a: Customer is a regular customer
+	3a: Customer is a regular customer
 
-	.1: System displays current shipping, pricing, and billing information
+		.1: System displays current shipping, pricing, and billing information
+		
+		.2: Customer may accept or override those defaults, returns to MSS at step 6
+		
 	
-	.2: Customer may accept or override those defaults, returns to MSS at step 6
-	
-	
-6a: System fails to authorize credit purchase
+	6a: System fails to authorize credit purchase
 
-	.1: Customer may re-enter credit card info (returns to MSS at step 5)
-	
-	.2: Customer may cancel purchase
+		.1: Customer may re-enter credit card info (returns to MSS at step 5)
+		
+		.2: Customer may cancel purchase
 	
 
-Let's work an example: Automated Teller Machine (ATM):
+**Let's work an example: Automated Teller Machine (ATM):**
 
 -	Who are the possible actors?
 <!-- commenting out the answers
