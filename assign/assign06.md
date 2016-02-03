@@ -40,9 +40,9 @@ In a text document of 1 page, *briefly* explain your analysis model. Discuss why
 Submitting
 ==========
 
-Create a Google Doc for your group's Textual Analysis and the explanation for your Analysis Model, and name it **assign06-www-xxx-yyy-zzz**, substituting the YCP User IDs of your project team members.  Place your Analysis document under your shared Google Drive Group Project folder.
+Create an Analysis document for your project in Google Docs that includes your group's Textual Analysis, Violet UML Model, and an explanation of your Analysis Model.  Name the Analysis document **assign06-www-xxx-yyy-zzz**, substituting the YCP User IDs of your project team members.
 
-Also post your Violet UML (.class.violet) file of your Analysis Model to the Project folder.  If Violet will output a PDF version of your model, also include the PDF version in your Google doc.
+Place your Analysis document under your shared Google Drive Group Project folder.  Also post your Violet UML (.class.violet) file of your Analysis Model to the Group Project folder.
 
 <div class="callout">
 <b>Important</b>: Your submission <i>must</i> be a Google Doc, shared via your Group Project folder.
