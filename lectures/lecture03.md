@@ -19,12 +19,10 @@ Issues:
     -   sometimes if you build exactly what they want(ed), they'll realize they want something different
 	-	sometimes only after you build exactly what they asked for, will they realize what else it is they want
 
--   documenting requirements, AKA capturing requirements:
-		**how do we do this?**
+-   documenting requirements, AKA capturing requirements: **how do we do this?**
 		
 	-   making sure requirements are satisfied
-    -   need to make sure that requirements have been addressed:
-			**how do we do that - guarantee that every requirement has been met?**
+    -   need to make sure that requirements have been addressed: **how do we do that - guarantee that every requirement has been met?**
     -   in a large system, with many requirements, this requires a great deal of attention to detail
 	
 So, let's have some "fun", and try to capture some requirements from a customer.
@@ -58,7 +56,7 @@ So what does a use case look like?  Here's the example from "UML Distilled", inc
 
 MSS - Main Success Scenario:
 
-	1. Customer ***browses catalog and selects items to buy***
+	1. Customer **browses catalog and selects items to buy**
 
 	2. Customer goes to check out
 
