@@ -16,6 +16,16 @@ Section 101:
 
 ![Use Case image](img/UseCaseActivity/Section101/P1030723.png)
 
+Section 102:
+
+![Use Case image](img/UseCaseActivity/Section101/P1030725.png)
+
+![Use Case image](img/UseCaseActivity/Section101/P1030726.png)
+
+![Use Case image](img/UseCaseActivity/Section101/P1030727.png)
+
+![Use Case image](img/UseCaseActivity/Section101/P1030728.png)
+
 <!-- Just commenting out last year's Activities - the images will be updated for 2016.
 [Use cases, Feb 2nd](https://www.flickr.com/photos/129359763@N05/sets/72157648317033113/)
 
