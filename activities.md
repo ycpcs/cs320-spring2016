@@ -7,6 +7,7 @@ This page links to the results of in-class activities.
 
 Use Cases, Feb 5th:
 Section 101:
+
 ![Use Case image](img/UseCaseActivity/Section101/P1030720.jpg)
 
 ![Use Case image](img/UseCaseActivity/Section101/P1030721.jpg)
