@@ -13,7 +13,7 @@ Assignment | Type | Due
 [Assignment 2: Individual project proposal](assign02.html) | Individual | Fri, Feb 5th by 11:59 PM
 [Assignment 3: Team Project Milestones](assign03.html) | Team | See description
 [Assignment 4: Individual Project Milestones](assign04.html) | Individual | See description
-[Assignment 5: Use cases](assign05.html) | Team | Mon, Feb 10th by 11:59 PM
+[Assignment 5: Use cases](assign05.html) | Team | Wed, Feb 10th by 11:59 PM
 [Assignment 6: Problem domain analysis](assign06.html) | Team | Mon, Feb 22nd by 11:59 PM
 [Assignment 7: Using Static Analysis](assign07.html) | Individual | Fri, Apr 8th by 11:59 PM
 [Assignment 8: Team Project Deliverables](assign08.html) | Team | See description
