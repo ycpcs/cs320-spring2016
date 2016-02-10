@@ -24,14 +24,16 @@ All information about the course will be posted here.
 * **Apr 22** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.
 * **Apr 22** - [Assignment 8](assign/assign08.html) describes the deliverables for the team project.
 * **Mar 24** - [Assignment 3](assign/assign03.html) (team project milestones) has been updated.  Specifically, SQL database functionality is not required for the second milestone (but *is* required for the third.)
-* **Mar 23** - Exam 2 will take place in class on Monday, April 4th.  It will be open book, but closed notes.  A practice exam is available on the [Practice Exams](practice/index.html) page.
+* **Mar 23** - Exam 2 will take place in class on Wednesday, April 6th.  It will be open book, but closed notes.  A practice exam is available on the [Practice Exams](practice/index.html) page.
 * **Mar 23** - [Assignment 7](assign/assign07.html) is due Friday, April 8th by 11:59 PM.  It is an individual assignment.
 * **Feb 22** - Exam 1 will be open book, but closed notes.  So, please bring your textbooks to the exam.
-* **Feb 17** - Exam 1 will take place in class on Friday, Feb 26th.  A practice exam is available on the [Practice Exams](practice/index.html) page.
-* **Feb 8** - For the in-class presentations of your group's work-in-progress analysis models on Wednesday: please use [Violet UML](http://alexdp.free.fr/violetumleditor/page.php) to create a nicely-formatted electronic version of your team's model.  You can download the jarfile from the [Resources](resources/index.html) page.
-* **Feb 12** - [Assignment 6](assign/assign06.html) is due Monday, Feb 22nd by 11:59 PM.
-* **Feb 8** - The [Activities](activities.html) page links to the results of in-class activities.
+* **Feb 22** - Exam 1 will take place in class on Wednesday, March 9th.  A practice exam is available on the [Practice Exams](practice/index.html) page.
 ­-->
+* **Feb 10** - [Assignment 6](assign/assign06.html) is due Monday, Feb 22nd by 11:59 PM.
+
+* **Feb 10** - For the in-class presentations of your group's work-in-progress analysis models on Monday (2-15): please use [Violet UML](http://alexdp.free.fr/violetumleditor/page.php) to create a nicely-formatted electronic version of your team's model.  You can download the jarfile from the [Resources](resources/index.html) page.
+
+* **Feb 10** - The [Activities](activities.html) page links to the results of in-class activities.
 
 * **Feb 1** - [Assignment 5](assign/assign05.html) is due Wednesday, Feb 10th by 11:59 PM.
 
