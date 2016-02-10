@@ -18,6 +18,8 @@ Issues:
 	-	customers aren't always that great at recognizing what they NEED
     -   sometimes if you build exactly what they want(ed), they'll realize they want something different
 	-	sometimes only after you build exactly what they asked for, will they realize what else it is they want
+	
+> ![dilbert](Dilbert_Requirements.png)	
 
 -   documenting requirements, AKA capturing requirements: **how do we do this?**
 		
