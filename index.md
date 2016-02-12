@@ -16,7 +16,9 @@ All information about the course will be posted here.
 * [Assignments](assign/index.html)
 * [Labs](labs/index.html)
 * [Activities](activities.html)
+<!-- Just commenting out Practice Exams, in case we do a take home exam.
 * [Practice Exams](practice/index.html)
+­-->
 
 ## News
 <!-- Just commenting out last year's News - the dates have been updated for 2016.
