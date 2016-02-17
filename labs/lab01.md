@@ -29,7 +29,7 @@ Like [OO Analysis](../lectures/lecture05.html), Git proficiency is a software de
 
 ## Step 1: Create an ssh keypair
 
-Execute the following commands in a terminal window:
+Execute the following commands in a Cygwin (Windows) or Linux terminal window:
 
 	ls ~/.ssh
 
@@ -39,17 +39,33 @@ If this command shows the files **id\_rsa** and **id\_rsa.pub**, then you can co
 
 When prompted for a passphrase, just press enter.
 
-## Step 2: Add your public key to your GitHub account
+## Step 2: Create a GitHub Account
 
-Log into GitHub.  Click on the account settings icon in the top right of the page.  (It looks like a wrench and a screwdriver.)
+If you dont' already have a GitHub account, go to [GitHub](https://github.com).
 
-Click on the **SSH keys** item on the left side of the account settings page.
+Pick a username, enter a valid email address (I suggest your YCP address), and select a password.
 
-Click the **Add SSH key** button at the top right of the SSH Keys list.
+Select "Sign up for GitHub".
 
-Enter "YCP" as the title.  In a text editor (**Accessories &rarr; Text Editor**), open the file **.ssh/id\_rsa.pub**.  Copy the text in this file, and copy it into the Key textbox.  Then press the **Add key** button.  You might need to enter the password for your GitHub account.
+Choose the free service - this is the default.
 
-## Step 3: Fork
+Verify your email address.
+
+## Step 3: Add your public key to your GitHub account
+
+Log into [GitHub](https://github.com).
+
+Click on the account settings icon in the top right of the page.  (It looks like a green square sitting on a green table.)
+
+Click on **Settings** in the dropdown list.
+
+Click on the **SSH keys** item about halfway down the the left side, in the Personal settings column.
+
+Click the **New SSH key** button at the top right of the SSH Keys list.
+
+Enter "YCP" as the title.  In a text editor (**Accessories &rarr; Text Editor**), open the file **.ssh/id\_rsa.pub**.  Copy the text in this file, and copy it into the Key textbox.  Then press the **Add SSH key** button.  You might need to enter the password for your GitHub account.
+
+## Step 4: Fork
 
 Go to the following GitHub repository page:
 
@@ -59,7 +75,7 @@ Click the **Fork** button.  This will make a clone of this repository in your ow
 
 The repository you just forked contains an Eclipse project called **MoveTheSquare**, a game engine that will be the basis for the next great indie game.  You will just need to add some additional gameplay features!
 
-## Step 4: Configure Eclipse
+## Step 5: Configure Eclipse
 
 Start Eclipse.  Choose **Window &rarr; Preferences &rarr;** to open the preferences dialog.
 
@@ -88,7 +104,7 @@ It is <i>extremely</i> important that you set the <b>core.autocrlf</b> setting t
 
 (If all of the members of your team are using Linux or MacOS, you will probably not need to worry about this.)
 
-## Step 5: Clone your fork of the repository
+## Step 6: Clone your fork of the repository
 
 In Eclipse, choose the **Git Repository Exploring** perspective.  Click the "Clone a Git Repository and add the clone to this view" button.
 
@@ -96,7 +112,7 @@ In the web page for the repository fork you created in Step 3, copy the **SSH cl
 
 Next, choose the **Java** perspective.  Choose **File &rarr; Import... &rarr; Git &rarr; Projects from Git &rarr; Local**.  Select the **MoveTheSquare** repository and click **Next**.  Click **Next** two more times, then click **Finish**.  You should now have a **MoveTheSquare** project in your Eclipse workspace that is connected to your public repository (the fork you created in Step 3).
 
-## Step 6: Make changes
+## Step 7: Make changes
 
 You can run the program by right clicking on **GameView** and choosing **Run As &rarr; Java Application**.
 
@@ -108,7 +124,7 @@ Make some changes to the code:
 * make the square move faster
 * prevent the square from moving outside the boundaries of the window
 
-## Step 7: Commit and push your changes
+## Step 8: Commit and push your changes
 
 Once you have made a change, right-click on the **Move The Square** project and choose **Team &rarr; Commit**.  Enter a log message describing your changes.
 
@@ -116,7 +132,7 @@ Next, right-click on **Move The Square** and choose **Team &rarr; Push**.
 
 If the push succeeds, you should be able to refresh your GitHub repository web pages and see the commit you just made.
 
-## Step 8: Fetch and merge changes from other people
+## Step 9: Fetch and merge changes from other people
 
 Refer to the [Fetch/Merge](../resources/fetchMerge.html) document for instructions on how to set up remote tracking branches to track the changes made by other people.
 
