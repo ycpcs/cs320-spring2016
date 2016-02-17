@@ -119,11 +119,19 @@ It is <i>extremely</i> important that you set the <b>core.autocrlf</b> setting t
 
 ## Step 6: Clone your fork of the repository
 
-In Eclipse, choose the **Git Repository Exploring** perspective.  Click the "Clone a Git Repository and add the clone to this view" button.
+In Eclipse, choose the **Git** perspective.  Click the "Clone a Git Repository and add the clone to this view" button (3rd button from left in the Git Repositories perspective).
 
-In the web page for the repository fork you created in Step 3, copy the **SSH clone URL** and paste it into the **URI** tab of the dialog.  The click **Next** twice and then **Finish**.
+In the GitHub web page for the repository fork you created in Step 4, click on "Move the Square" under "Your repositories".
 
-Next, choose the **Java** perspective.  Choose **File &rarr; Import... &rarr; Git &rarr; Projects from Git &rarr; Local**.  Select the **MoveTheSquare** repository and click **Next**.  Click **Next** two more times, then click **Finish**.  You should now have a **MoveTheSquare** project in your Eclipse workspace that is connected to your public repository (the fork you created in Step 3).
+In GitHub, select **SSH**, and then click the **"copy to clipboard"** button to the right of the SSH URL and paste it into the **URI** tab of the Eclipse **Clone GIt Repository" dialog.
+
+You can choose where you want to store the local repository: if using your laptop, store it locally on your hard drive; if using a lab PC, store it on H:/ (your home drive).
+
+In Eclipse, click **Next** twice and then **Finish**.
+
+Next, in Eclipse, choose the **Java** perspective.  Choose **File &rarr; Import... &rarr; Git &rarr; Projects from Git &rarr; Existing local respository**.  Select the **MoveTheSquare** repository and click **Next**.  Click **Next** two more times, then click **Finish**.  You should now have a **MoveTheSquare** project in your Eclipse workspace that is connected to your public repository (the fork you created in Step 4).
+
+To test that you can pull from your remote repository, right click on "Move the Square", and select **Team &rarr; Pull** and you'll get a message box titled "Pull Result for MoveTheSquare" that says that everything is up-to-date.
 
 ## Step 7: Make changes
 
