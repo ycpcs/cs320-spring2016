@@ -27,7 +27,7 @@ Git is one of the most awesome and powerful software development tools ever crea
 
 Like [OO Analysis](../lectures/lecture05.html), Git proficiency is a software development super power.
 
-## Step 1: Create an ssh keypair
+## Step 1: Create an SSH keypair
 
 Execute the following commands in a Cygwin (Windows) or Linux terminal window:
 
@@ -37,11 +37,11 @@ If this command shows the files **id\_rsa** and **id\_rsa.pub**, then you can co
 
 If you are working on a lab computer, execute this command (which causes the SSH key to be stored on your home drive):
 
-    **export HOME=/cygdrive/h**
+    export HOME=/cygdrive/h
 
 To generate the SSH key:
 
-	**ssh-keygen -t rsa -b 2048**
+	ssh-keygen -t rsa -b 2048
     
 Enter the file name for the SSH key.  Note the path of where the key is being stored.
 
@@ -49,7 +49,7 @@ When prompted for a passphrase, just press enter (twice).
 
 Again, if you are working on a lab computer, execute this command (which tells Eclipse where to find the SSH key):
 
-    **set Eclipse SSH2 home to H:\.ssh**
+    set Eclipse SSH2 home to H:\.ssh
 
 
 ## Step 2: Create a GitHub Account
