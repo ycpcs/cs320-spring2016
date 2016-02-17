@@ -55,7 +55,7 @@ Verify your email address.
 
 Log into [GitHub](https://github.com).
 
-Click on the **View Profile** icon in the top right of the page it looks like a green square sitting on a green table.)
+Click on the **View Profile** icon in the top right of the page (it looks like a green square sitting on a green table.)
 
 Click on **Settings** in the dropdown list.
 
