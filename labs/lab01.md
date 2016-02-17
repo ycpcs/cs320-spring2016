@@ -123,7 +123,7 @@ In Eclipse, choose the **Git** perspective.  Click the "Clone a Git Repository a
 
 In the GitHub web page for the repository fork you created in Step 4, click on "Move the Square" under "Your repositories".
 
-In GitHub, select **SSH**, and then click the **"copy to clipboard"** button to the right of the SSH URL and paste it into the **URI** tab of the Eclipse **Clone GIt Repository" dialog.
+In GitHub, select **SSH**, and then click the **"copy to clipboard"** button to the right of the SSH URL and paste it into the **URI** tab of the Eclipse **Clone Git Repository"** dialog.
 
 You can choose where you want to store the local repository: if using your laptop, store it locally on your hard drive; if using a lab PC, store it on H:/ (your home drive).
 
