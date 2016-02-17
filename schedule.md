@@ -29,11 +29,11 @@ Feb 19 | OO Design | [Lecture 6: OO Design, OCP, LSP](lectures/lecture06.html), 
 Feb 22 | Version control | [Git for Designers](https://web.archive.org/web/20150301060509/http://hoth.entp.com/output/git_for_designers.html)
 Feb 24 | Version control lab |
 Feb 26 | HTML and CSS | [Lecture 7: HTML and CSS](lectures/lecture07.html)
-Feb 29 | **Winter vacation, no class**
-Mar 2 | **Winter vacation, no class**
-Mar 4 | **Winter vacation, no class**
+Feb 29 | **Winter Break, no class**
+Mar 2 | **Winter Break, no class**
+Mar 4 | **Winter Break, no class**
 Mar 7 | Web applications | [Lecture 8: Web applications](lectures/lecture08.html)
-Mar 9 | **Exam 1** (in class)
+Mar 9 | **Exam 1 DUE** (Take home exam due at beginning of class)
 Mar 11 | Databases, SQL | [Lecture 9: Relational Databases](lectures/lecture09.html)
 Mar 14 | Team project progress milestone 1
 Mar 16 | Database applications, JDBC | [Lecture 10: Database applications, JDBC](lectures/lecture10.html)
