@@ -149,7 +149,7 @@ Make some changes to the code:
 
 Once you have made a change, right-click on the **Move The Square** project and choose **Team &rarr; Commit**.  Enter a log message describing your changes.
 
-Next, right-click on **Move The Square** and choose **Team &rarr; Push**.
+Next, right-click on **Move The Square** and choose **Team &rarr; Push** or **Team &rarr; Push Branch**.
 
 If the push succeeds, you should be able to refresh your GitHub repository web pages and see the commit you just made.
 
@@ -159,7 +159,7 @@ Refer to the [Fetch/Merge](../resources/fetchMerge.html) document for instructio
 
 Find someone in the class whose changes you want to fetch and merge.
 
-Using the Eclipse Git Repository Exploring perspective, configure a *remote* for that person's public repository.  Then return to the Java perspective and fetch changes from the remote.  Finally, merge changes from the remote tracking branch containing the changes you fetched.
+Using the Eclipse Git perspective, configure a *remote* for that person's public repository.  Then return to the Java perspective and fetch changes from the remote.  Finally, merge changes from the remote tracking branch containing the changes you fetched.
 
 ### Merge conflicts
 
@@ -185,7 +185,7 @@ If you see a merge conflict where a conflict marker shows a conflict between two
 
 ### Pushing following a merge
 
-Once a merge has been completed, you should to a push so that your public repository is updated with the results of the merge.
+Once a merge has been completed, you should do a push so that your public repository is updated with the results of the merge.
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
