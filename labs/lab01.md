@@ -76,7 +76,7 @@ Click on the **SSH keys** item about halfway down the the left side, in the Pers
 
 Click the **New SSH key** button at the top right of the SSH Keys list.
 
-Enter "YCP" as the title.  In a text editor (**Accessories &rarr; Text Editor**), open the file **.ssh/id\_rsa.pub**.  Copy the text in this file, and copy it into the Key textbox.  Then press the **Add SSH key** button.  You might need to enter the password for your GitHub account.
+Enter "YCP" as the title.  In a text editor **Notepad++** or (**Accessories &rarr; Text Editor**), open the file **.ssh/id\_rsa.pub**.  Copy the entire text in this file, and paste it into the Key textbox.  Then press the **Add SSH key** button.  You might need to enter the password for your GitHub account.
 
 ## Step 4: Fork
 
@@ -84,7 +84,7 @@ Go to the following GitHub repository page:
 
   [https://github.com/DonaldHakeII/MoveTheSquare](https://github.com/DonaldHakeII/MoveTheSquare)
 
-Click the **Fork** button.  This will make a clone of this repository in your own GitHub account.  This will be your public repository for this lab.
+Make sure that **SSH** is displayed for the clone credentials (just to the right of "Find file"). Click the **Fork** button (upper right button labelled "fork" under the Profile icon).  This will make a clone of this repository in your own GitHub account.  This will be your personal public repository for this lab.
 
 The repository you just forked contains an Eclipse project called **MoveTheSquare**, a game engine that will be the basis for the next great indie game.  You will just need to add some additional gameplay features!
 
