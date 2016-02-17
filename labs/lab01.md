@@ -41,7 +41,7 @@ When prompted for a passphrase, just press enter.
 
 ## Step 2: Create a GitHub Account
 
-If you dont' already have a GitHub account, go to [GitHub](https://github.com).
+If you don't already have a GitHub account, go to [GitHub](https://github.com).
 
 Pick a username, enter a valid email address (I suggest your YCP address), and select a password.
 
@@ -55,7 +55,7 @@ Verify your email address.
 
 Log into [GitHub](https://github.com).
 
-Click on the account settings icon in the top right of the page.  (It looks like a green square sitting on a green table.)
+Click on the **View Profile** icon in the top right of the page it looks like a green square sitting on a green table.)
 
 Click on **Settings** in the dropdown list.
 
