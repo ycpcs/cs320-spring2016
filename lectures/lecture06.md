@@ -116,7 +116,7 @@ The SpriteFactory class is responsible for creating the sprites for each level. 
 
 > **But, how does SpriteFactory know which Sprites to create for each level?**
 
-> **What if we want to add new Sprites to a level, how does SpriteFactory know to create those new Sprites for that level?**  Don't we still have to change SpriteFactory so that it creates those Sprites for that level?**
+> **What if we want to add new Sprites to a level, how does SpriteFactory know to create those new Sprites for that level?  Don't we still have to change SpriteFactory so that it creates those Sprites for that level?**
 
 > **What if we want to add a new level, then how does SpriteFactory know how to create Sprites for a level it has never seen before?**
 
