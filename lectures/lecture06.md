@@ -16,25 +16,29 @@ Goals for the design model:
 
 Goal \#1 should be fairly obvious - there's no point in building incorrect software.
 
+> **True, what are some other reasons to invest time in "designing" the system?**
+
 Goal \#2 has several important motivations:
 
 > We know the requirements will change as the system evolves.
 >
 > We know that we will learn more about the problem and revisit earlier decisions.
 >
-> Designs that accomodate change tend to be easy to understand - which is very important when we're dealing with a complex system.
+> Designs that accommodate change tend to be easy to understand - which is very important when we're dealing with a complex system.
 
-As always in software development, there are an infinite number of ways we could design a system to solve any particular problem. So, how will we design a system that best achieves our goals?
+As always in software development, there are an infinite number of ways we could design a system to solve any particular problem.
+
+> **So, how will we design a system that best achieves our goals?**
 
 Having a good analysis model generally gives us a very good place to start in constructing a design model. So, if we simply elaborate the analysis model (adding methods, method parameters and return types, fields, etc.) we will most likely get a reasonably good design. However, as we build the design model, we will have many opportunities to *improve* the design.
 
-So, the question becomes, "what makes a good design?"
-
-[Solicit ideas.]
+> **So, the question becomes, "what makes a good design?"**
 
 There is one ultimate principle that describes good design, in software as well as almost any other kind of system:
 
 > The simplest solution that solves the problem is generally the best one.
+
+> **Can you think of situations when the above statement might not apply?**
 
 Simplicity has many benefits:
 
@@ -44,12 +48,12 @@ Simplicity has many benefits:
 >
 > the system is easier to modify
 
-As we discuss design, we will a number of more specific design principles to help achieve simplicity.
+As we discuss design, we will discuss a number of more specific design principles to help achieve simplicity.
 
 Design Principles
 =================
 
-The essential problem of software is that there are an infinite number of ways that we could build a system that works and correctly solves the problem we want to solve. However, many possible designs are needlessly complex, fragile, difficult to understand, etc. Given the challenging environment in which software is developed (limited time/money, changing requirements, etc.) we need to make sure that the systems we design have a simple, flexible design.
+The essential problem of software is that there are an infinite number of ways that we could build a system that works and correctly solves the problem we want to solve. However, many possible designs are needlessly complex, fragile, difficult to understand, etc. Given the challenging environment in which software is developed (limited time/money/resources, changing requirements, changing business needs, etc.) we need to make sure that we design simple, flexible systems.
 
 There is no automatic way to come up with a "perfect" design.
 
