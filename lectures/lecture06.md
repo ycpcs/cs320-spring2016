@@ -163,4 +163,18 @@ What this example shows is that we cannot make one class a subclass of another c
 
 Note that in the case of Rectangle/Square, there is no problem if Rectangles and Squares are *immutable*, meaning their properties are fixed (no setter methods).
 
-[TODO - update to talk about method contracts, allowed scope of changes to contract in subclasses]
+LSP can be restated as **Design by Contract**.  In order for a derived class to substitutable for its base class, the derived class must *honor the contract* of the base class.
+
+The contract for each method in the class is based on *pre-conditions* and *post-conditions*:
+
+> Pre-condition: that which must be true before a method is called.  If the pre-conditions for a method are not met, that method should not be called.
+
+> Post-condition: that which is guaranteed to be true after the method is called.  If the post-conditions for a method can not be met, the method should not return (assertion).
+
+We can restate the LSP in terms of the contracts.  A derived class is substitutable for its base class if:
+> 1. Its pre-conditions are no stronger than the base class method(s).
+> 2. Its post-conditions are no weaker than the base class method(s).
+
+Derived methods should *expect no more and provide no less* than there base class methods.
+
+> **Just like a Square is a Rectangle, a Circle is an Ellipse.  How might a Circle subclass derived form an Ellipse base class violate the Ellipse contract?**
