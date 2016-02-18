@@ -16,7 +16,7 @@ Goals for the design model:
 
 Goal \#1 should be fairly obvious - there's no point in building incorrect software.
 
-> **True, what are some other reasons to invest time in "designing" the system?**
+> **True, but what are some other reasons to invest time in "designing" the system?**
 
 Goal \#2 has several important motivations:
 
@@ -28,9 +28,9 @@ Goal \#2 has several important motivations:
 
 As always in software development, there are an infinite number of ways we could design a system to solve any particular problem.
 
-> **So, how will we design a system that best achieves our goals?**
+> **So, what do we need to do in order to design a system that best achieves our goals?  And how should we interpret "best"?**
 
-Having a good analysis model generally gives us a very good place to start in constructing a design model. So, if we simply elaborate the analysis model (adding methods, method parameters and return types, fields, etc.) we will most likely get a reasonably good design. However, as we build the design model, we will have many opportunities to *improve* the design.
+Having a good analysis model generally gives us a very good place to start in constructing a design model. So, if we simply **elaborate the analysis model** (adding methods, method parameters and return types, fields, etc.) we will most likely get a reasonably good design. However, as we build the design model, we will have many opportunities to *improve* the design.
 
 > **So, the question becomes, "what makes a good design?"**
 
@@ -53,7 +53,9 @@ As we discuss design, we will discuss a number of more specific design principle
 Design Principles
 =================
 
-The essential problem of software is that there are an infinite number of ways that we could build a system that works and correctly solves the problem we want to solve. However, many possible designs are needlessly complex, fragile, difficult to understand, etc. Given the challenging environment in which software is developed (limited time/money/resources, changing requirements, changing business needs, etc.) we need to make sure that we design simple, flexible systems.
+The essential problem of software is that there are an infinite number of ways that we could build a system that works and correctly solves the problem we want to solve. However, many possible designs are **needlessly complex, fragile, difficult to understand, etc.**   I will present some examples - at times, it is best to have understand how to do something wrong, in order to understand how to do something better.
+
+Given the challenging environment in which software is developed (limited time/money/resources, changing requirements, changing business needs, etc.) we need to make sure that we design simple, flexible systems.
 
 There is no automatic way to come up with a "perfect" design.
 
@@ -61,7 +63,7 @@ Instead, what we can do is take an existing design and judge it according to the
 
 Today, we will talk about some of the important OO design principles. These principles are the product of many years of experience building object-oriented software.
 
-From: [Design Principles and Design Patterns](lecture06/Principles_and_Patterns.pdf) by [Robert C. Martin](https://sites.google.com/site/unclebobconsultingllc/).
+The following is excerpted from your reading for today: [Design Principles and Design Patterns](lecture06/Principles_and_Patterns.pdf) by [Robert C. Martin](https://sites.google.com/site/unclebobconsultingllc/).
 
 Open/Closed Principle (OCP)
 ---------------------------
