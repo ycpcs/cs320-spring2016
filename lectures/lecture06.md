@@ -72,7 +72,7 @@ Open/Closed Principle (OCP)
 
 It should be possible to extend the functionality of a module (a component of the system) without changing the implementation of that module.
 
-How is this possible? [Ask.] *Abstract superclasses*.
+> **How is this possible?**
 
 The idea is that we try to design and implement modules (classes) so that they *use* (call methods on) objects through *abstract classes* and *interfaces*. That way, we can extend the functionality of the module by simply adding new subclasses which add new behavior, instantiating objects which are instances of those subclasses, and passing the objects to the module which uses them through the abstract superclass or interface.
 
@@ -102,17 +102,27 @@ Interestingly, there is an important consideration if we are truly to satisfy th
 
 The answer is NO: if the Game module creates subclasses of Sprite directly, then code changes are required to extend Game.
 
+> **What is the exact violation of OCP?**
+
 This seems like a dilemma, but we can get around it by observing that we only have a problem if Game *directly* creates Sprites. There is no problem if Game *indirectly* creates Sprites.
 
-So, how could Game *indirectly* create Sprites? [Ask.]
+> **So, how could Game *indirectly* create Sprites?**
 
-Game can creates *indirectly* if it *delegates* the creation of the Sprites to another object:
+Game can create *indirectly* if it *delegates* the creation of the Sprites to another object:
 
 > ![image](figures/spriteFactory.png)
 
 The SpriteFactory class is responsible for creating the sprites for each level. It is also not a problem for one Sprite object to create another: for example, a PlayerShip object might create a Missile object when the user fires a Missile.
 
+> **But, how does SpriteFactory know which Sprites to create for each level?**
+
+> **What if we want to add new Sprites to a level, how does SpriteFactory know to create those new Sprites for that level?**  Don't we still have to change SpriteFactory so that it creates those Sprites for that level?**
+
+> **What if we want to add a new level, then how does SpriteFactory know how to create Sprites for a level it has never seen before?**
+
 The idea of using a *factory class* to indirectly create instances of subclasses of an abstract superclass is an example of a *design pattern*. Design patterns are good ideas that help improve designs to more closely follow OO design principles. We will discuss many design patterns as we discuss OO design.
+
+> **What interfaces might be applicable for some of the subclasses of the Sprite super class?**
 
 Liskov Substitution Principle (LSP)
 ===================================
@@ -146,7 +156,7 @@ public class Rectangle {
 If we make Square a subclass of Rectangle, how will it implement setWidth and setHeight?
 
 > we could have changes to width be reflected in the Square's height, and vice versa, but that violates the contract of the setHeight and setWidth methods (which should only change one dimension of the Rectangle)
->
+
 > we could leave setWidth and setHeight unimplemented for Square objects (i.e., throw an exception when called), but that will certainly surprise clients of the Rectangle class
 
 What this example shows is that we cannot make one class a subclass of another class unless it can truly behave in a way that is consistent with the expectations established by the superclass.
