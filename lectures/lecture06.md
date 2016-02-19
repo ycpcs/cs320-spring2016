@@ -10,9 +10,9 @@ Basic idea: take our analysis model and turn it into a detailed blueprint for ou
 
 Goals for the design model:
 
-> 1. Design a system that will solve the problem (In enough detail that the implementation should flow easily from the design)
+> 1. Design a system that will solve the problem (with enough detail that the implementation should flow easily from the design).
 >
-> 2. Design a system that is easy to change
+> 2. Design a system that is easy to change.
 
 Goal \#1 should be fairly obvious - there's no point in building incorrect software.
 
@@ -53,9 +53,9 @@ As we discuss design, we will discuss a number of more specific design principle
 Design Principles
 =================
 
-The essential problem of software is that there are an infinite number of ways that we could build a system that works and correctly solves the problem we want to solve. However, many possible designs are **needlessly complex, fragile, difficult to understand, etc.**   I will present some examples - at times, it is best to have understand how to do something wrong, in order to understand how to do something better.
+The essential problem of software is that there are an infinite number of ways that we could build a system that works and correctly solves the problem we want to solve. However, many possible designs are **needlessly complex, fragile, difficult to understand, etc.**   I will present some examples - at times, it is helpful to understand how to do something wrong, in order to understand how to do something better.
 
-Given the challenging environment in which software is developed (limited time/money/resources, changing requirements, changing business needs, etc.) we need to make sure that we design simple, flexible systems.
+Given the challenging environment in which software is developed (limited time/money/resources, changing requirements, changing business needs, etc.), we need to make sure that we design simple, flexible systems.
 
 There is no automatic way to come up with a "perfect" design.
 
@@ -74,7 +74,7 @@ It should be possible to extend the functionality of a module (a component of th
 
 > **How is this possible?**
 
-The idea is that we try to design and implement modules (classes) so that they *use* (call methods on) objects through *abstract classes* and *interfaces*. That way, we can extend the functionality of the module by simply adding new subclasses which add new behavior, instantiating objects which are instances of those subclasses, and passing the objects to the module which uses them through the abstract superclass or interface.
+The idea is that we try to design and implement modules (classes) so that they *use* (call methods on) objects through *abstract classes* and *interfaces*. That way, we can extend the functionality of the module by simply adding new subclasses which add new behavior, instantiating objects which are instances of those subclasses, and passing the objects to the module which uses them **through the abstract superclass or interface**.
 
 Example:
 
@@ -88,7 +88,7 @@ We can observe that there are important commonalities in the way that the game *
 
 > it draws them
 >
-> it allows them to take turns (one turn per animation frame
+> it allows them to take turns (one turn per animation frame)
 >
 > etc.
 
@@ -112,7 +112,7 @@ Game can create *indirectly* if it *delegates* the creation of the Sprites to an
 
 > ![image](figures/spriteFactory.png)
 
-The SpriteFactory class is responsible for creating the sprites for each level. It is also not a problem for one Sprite object to create another: for example, a PlayerShip object might create a Missile object when the user fires a Missile.
+The SpriteFactory class is responsible for creating the Sprites for each level. It is also not a problem for one Sprite object to create another: for example, a PlayerShip object might create a Missile object when the user fires a Missile.
 
 > **But, how does SpriteFactory know which Sprites to create for each level?**
 
