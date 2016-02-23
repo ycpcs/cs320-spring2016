@@ -23,6 +23,8 @@ Use **div** and **span** elements with id and class attributes to specify the bo
 Hints
 -----
 
+For additional information, I highly recommend this [great tutorial site for HTML, CSS, Java Script, SQL, PHP](http://www.w3schools.com).
+
 Try floating the content and sidebar divs to the left.
 
 Use **width** properties to set the widths of the content and sidebar divs. For example, I have
