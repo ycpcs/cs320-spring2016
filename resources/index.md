@@ -9,7 +9,7 @@ This page links to useful resources.
 
 Violet UML: [violetumleditor-2.1.0.jar](violetumleditor-2.1.0.jar)
 
-[Great Tutorial site for HTML, CSS, Java Script, SQL, PHP](www.w3schools.com)
+[Great Tutorial site for HTML, CSS, Java Script, SQL, PHP](http://www.w3schools.com)
 
 [CS320\_Derby.zip](CS320_Derby.zip) &mdash; Eclipse project with jarfiles for Apache Derby (relational database)
 
