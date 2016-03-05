@@ -12,7 +12,7 @@ There are two basic approaches to developing web applications.
 
 The "traditional" approach is that the web application runs entirely on the server, and dynamically generates HTML to be displayed in the client web browser. The user interacts with the application by submitting form data, which is sent to the web server as an HTTP POST request. The server handles the request by decoding the form parameters, deciding how to handle the request, and then generating another HTML document as a response.
 
-The "modern" approach is that the web application runs both within the client web browser (as Javascript) and also on the server. The Javascript code can call code on the server using AJAX, which is a means of asynchronous communication with the server. (We will investigate AJAX in a future lecture/lab.)
+The "modern" approach is that the web application runs both within the client web browser (as Javascript) and also on the server. The Javascript code can call code on the server using AJAX, which is a means of asynchronous communication with the server. (We will NOT be investigating Javascript and AJAX in this course, as you are likely already feeling overwhelmed with the additional languages and technologies to learn for this course.  :-)
 
 Today we will discuss the "traditional" approach.
 
@@ -21,7 +21,7 @@ Java Web Applications
 
 Java defines an API called J2EE, part of which specifies standard interfaces for developing web applications.
 
-A Java web application consists of *servlets*, which allow the application to handle HTTP requests. We have already seen how to use Java servlets in our work on implementing web services.
+A Java web application consists of *servlets*, which allow the application to handle HTTP requests.
 
 We could implement a traditional web application by having our servlets generate HTML directly. For example:
 
@@ -68,7 +68,7 @@ Before we dive into JSPs, let's first consider how we want to *design* a web app
 
 Here is the basic idea of how a request is handled in MVC2:
 
-1.  The request parameters and/or form data is decoded and translated into one or more model objects which form the request. This request objects are then sent to a controller.
+1.  The request parameters and/or form data is decoded and translated into one or more model objects which form the request. These request objects are then sent to a controller.
 2.  The controller processes the request and produces one or more model objects as the result of the request.
 3.  A view renders the request and result model objects as HTML that is sent back to the client.
 
@@ -136,12 +136,12 @@ Here is the code. First, the view JSP:
       </body>
     </html>
 
-Mostly, the view is just HTML. However, there are a couple of JSP-specific details to notice:
+Mostly, the view is just HTML tht creates a table of the two numbers to be entered. However, there are a couple of JSP-specific details to notice:
 
 -   The directive **&lt;%@ taglib uri="<http://java.sun.com/jsp/jstl/core>" prefix="c" %&gt;** specifies that we want to use the JSTL core tag library. This allows us to use special tags for things like conditionals and loops. You will notice that we use the **&lt;c:if&gt;** tag to conditionally display an error message if the servlet has specified one.
 -   The syntax **${** *...* **}** specifies a JSTL expression. JSTL expressions can be used to include dynamic content into the HTML document. The JSP above uses this syntax to substitute the values for the first and second input number, the result, and (if there is one) an error message.
 
-Next, the servlet which handles the requests:
+Next, here is the servlet code which handles the requests:
 
     package edu.ycp.cs320.lab11.servlet;
 
@@ -250,13 +250,13 @@ A good test that you have abstracted the controller well is that it is relativel
 Web Applications vs. Web Services
 =================================
 
-It is worth considering the distinction between web application and web services.
+It is worth considering the distinction between web applications and web services.
 
 -   A (RESTful) web service provides access to resources to *programs*, which communicate with the web service via HTTP requests (GET, PUT, POST, DELETE), returning the resource data in an easily-parsed format such as XML or JSON
--   A web application provides access to resources to *human beings* who communicate with the web application using a web browser, accepting HTTP GET and POST requests and returning the resource data in a format intended to be displayed visually (HTML, CSS, images)
+-   A web application provides access to resources to *human beings* who communicate with the web application using a web browser, accepting HTTP GET and POST requests and returning the resource data in a format intended to be displayed visually (HTML, CSS, images.)
 
 Web services and web applications are thus closely related to each other, but provide access to resources for different kinds of clients.
 
-There is no reason why you can't implement a system which is *both* a web application and a web service. One approach: write your controllers and model classes so that they can be used by web application servlets/views and also web service servlets:
+There is no reason why you can't implement a system which is *both* a web application and a web service. One approach: write your controllers and model classes so that they can be used by web application servlets/views and also by web service servlets:
 
 > ![image](figures/webappAndWebserviceArch.png)

@@ -3,7 +3,7 @@ layout: default
 title: "Lecture 10: Database Applications, JDBC"
 ---
 
-In [Lab 6](../labs/lab06.html) we experimented with [SQLite](http://www.sqlite.org/) by typing queries interactively (using a simple front-end program).
+In [Lab 4](../labs/lab04.html) we experimented with [SQLite](http://www.sqlite.org/) by typing queries interactively (using a simple front-end program).
 
 Another very useful way to interact with a database is from a program that you write. Programs which communicate with a database are often referred to as *database applications*.
 

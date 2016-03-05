@@ -7,7 +7,7 @@ title: "Lab 6: ORM"
 
 Download [CS320\_Lab06.zip](CS320_Lab06.zip). Import it into your Eclipse workspace (**File&rarr;Import...&rarr;General&rarr;Existing projects into workspace&rarr;Archive File**). You will see a project called **CS320\_Lab06** in the Package Explorer.
 
-Start by creating the **test.db** file that creates the initial [books database](../lectures/lecture11.html).  (Note that there are some minor differences in the relations, specifically the addition of an **id** field to the **books** relation.)  Execute the **SqliteDatabase** class as a Java application: you should see the following output:
+Start by creating the **test.db** file that creates the initial [books database](../lectures/lecture9.html).  (Note that there are some minor differences in the relations, specifically the addition of an **id** field to the **books** relation.)  Execute the **SqliteDatabase** class as a Java application: you should see the following output:
 
     Creating tables...
     Loading initial data...
