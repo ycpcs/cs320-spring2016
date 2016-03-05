@@ -50,7 +50,7 @@ Apr 8 | Individual project milestone 2:<br> **33% Working System** | [Assignment
 Apr 11 | Static Analysis | [Lecture 14: Static Analysis](lectures/lecture14.html)
 Apr 13 |
 Apr 15 | Team project milestone 3:<br> **50% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
-Apr 18 |**Exam 2** (in class)
+Apr 18 |**Exam 2** (in class)<br>Static Analysis Assignment Due | [Assignment 7: Static Analysis](assign/assign07.html)
 Apr 20 |
 Apr 22 | Individual project milestone 3:<br> **67% Working System** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Apr 25 |
