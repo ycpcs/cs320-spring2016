@@ -44,13 +44,13 @@ Mar 25 | **Spring vacation, no class**
 Mar 28 | **Spring vacation, no class**
 Mar 30 | Testing, code coverage | [Lecture 12: Testing](lectures/lecture12.html)
 Apr 1 | Team project milestone 2:<br> **Progress on Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)
-Apr 4 | Static Analysis | [Lecture 14: Static Analysis](lectures/lecture14.html)
+Apr 4 | Ensuring Code Quality | [Lecture 13: Ensuring Code Quality](lectures/lecture13.html)
 Apr 6 | 
 Apr 8 | Individual project milestone 2:<br> **33% Working System** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
-Apr 11 | Ensuring Code Quality | [Lecture 13: Ensuring Code Quality](lectures/lecture13.html)
-Apr 13 |**Exam 2** (in class)
+Apr 11 | Static Analysis | [Lecture 14: Static Analysis](lectures/lecture14.html)
+Apr 13 |
 Apr 15 | Team project milestone 3:<br> **50% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
-Apr 18 |
+Apr 18 |**Exam 2** (in class)
 Apr 20 |
 Apr 22 | Individual project milestone 3:<br> **67% Working System** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Apr 25 |
