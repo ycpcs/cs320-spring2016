@@ -59,5 +59,5 @@ Apr 29 | Team project milestone 4:<br> **95% Working System** | [Assignment 3: T
 May 2 |
 May 4 | Individual project milestone 4:<br> **FINAL DEMO** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 May 6 | **Finals week, no class**<br>Team Project Code & Report Due<br>Individual Project Code & Report Due | <br> [Assignment 8: Team Project Deliverables](assign/assign08.html)<br> [Assignment 9: Individual Project Deliverables](assign/assign09.html)
-May 10 | **Finals week, no class**<br>Team Project Reflection Due<br>Team Project Self/Peer Evaluation Due | [Assignment 10](assign/assign10.html)<br> [Assignment 11](assign/assign11.html)
+May 10 | **Finals week, no class**<br>Team Project Reflection Due<br>Team Project Self/Peer Evaluation Due | [Assignment 10: Team Project Reflection](assign/assign10.html)<br> [Assignment 11: Team Project Self/Peer Evaluation](assign/assign11.html)
 May 11 | **TEAM PROJECT PRESENTATION** | [Assignment 8: Team Project Deliverables](assign/assign08.html)
