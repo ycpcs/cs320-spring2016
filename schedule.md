@@ -38,24 +38,26 @@ Mar 11 | SQL Database and lab | [Lecture 9: Relational Databases](lectures/lectu
 Mar 14 | Database applications, JDBC | [Lecture 10: Database applications, JDBC](lectures/lecture10.html)
 Mar 16 | ORM | [Lecture 11: ORM, Designing a Persistence Layer](lectures/lecture11.html)
 Mar 18 | SQL / JDBC / ORM labs and in-class team project work
-Mar 21 | Team project progress milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
-Mar 23 | Individual project progress milestone 1:<br> **Project Baseline** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
+Mar 21 | Team project milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
+Mar 23 | Individual project milestone 1:<br> **Project Baseline** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Mar 25 | **Spring vacation, no class**
 Mar 28 | **Spring vacation, no class**
 Mar 30 | Testing, code coverage | [Lecture 12: Testing](lectures/lecture12.html)
-Apr 1 | Team project progress milestone 2:<br> **Progress on Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)
+Apr 1 | Team project milestone 2:<br> **Progress on Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Apr 4 | Static Analysis | [Lecture 14: Static Analysis](lectures/lecture14.html)
 Apr 6 | 
-Apr 8 | Individual project progress milestone 2:<br> **33% Working System** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
+Apr 8 | Individual project milestone 2:<br> **33% Working System** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Apr 11 | Ensuring Code Quality | [Lecture 13: Ensuring Code Quality](lectures/lecture13.html)
 Apr 13 |**Exam 2** (in class)
-Apr 15 | Team project progress milestone 3: <br> **50% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
+Apr 15 | Team project milestone 3:<br> **50% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Apr 18 |
 Apr 20 |
-Apr 22 | Individual project progress milestone 3:<br> **67% Working System** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
+Apr 22 | Individual project milestone 3:<br> **67% Working System** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Apr 25 |
 Apr 27 |
-Apr 29 | Team project progress milestone 4:<br> **95% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
+Apr 29 | Team project milestone 4:<br> **95% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 May 2 |
-May 4 | Individual project progress milestone 4:<br> **FINAL DEMO** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
-May 11 | Team project presentations | [Assignment 8: Team Project Deliverables](assign/assign08.html)
+May 4 | Individual project milestone 4:<br> **FINAL DEMO** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
+May 6 | **No Class**<br> **Team Project Code and Report Due** <br> **Individual Project Code and Report Due** | <br> [Assignment 8: Team Project Deliverables](assign/assign08.html)<br> [Assignment 9: Individual Project Deliverables](assign/assign09.html)
+May 10 | **No Class**<br> **Team Project Reflection Due** <br> **Team Project Self/Peer Evaluation Due** | <br> [Assignment 10](assign/assign10.html)<br> [Assignment 11](assign/assign11.html)
+May 11 | Team project presentation | [Assignment 8: Team Project Deliverables](assign/assign08.html)
