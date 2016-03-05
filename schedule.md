@@ -33,22 +33,22 @@ Feb 29 | **Winter Break, no class**
 Mar 2 | **Winter Break, no class**
 Mar 4 | **Winter Break, no class**
 Mar 7 | Web applications | [Lecture 8: Web applications](lectures/lecture08.html)
-Mar 9 | **Exam 1 DUE** (Take home exam due at beginning of class)
+Mar 9 | Web applications lab and in-class team project work | **Exam 1 DUE** (Take home exam due at beginning of class)
 Mar 11 | Databases, SQL | [Lecture 9: Relational Databases](lectures/lecture09.html)
-Mar 14 | Team project progress milestone 1
-Mar 16 | Database applications, JDBC | [Lecture 10: Database applications, JDBC](lectures/lecture10.html)
-Mar 18 | ORM | [Lecture 11: ORM, Designing a Persistence Layer](lectures/lecture11.html)
+Mar 14 | Database applications, JDBC | [Lecture 10: Database applications, JDBC](lectures/lecture10.html)
+Mar 16 | ORM | [Lecture 11: ORM, Designing a Persistence Layer](lectures/lecture11.html)
+Mar 18 | SQL / JDBC / ORM labs and in-class team project work
 Mar 21 | Individual project progress milestone 1
-Mar 23 | Testing, code coverage | [Lecture 12: Testing](lectures/lecture12.html)
+Mar 23 | Team project progress milestone 1
 Mar 25 | **Spring vacation, no class**
 Mar 28 | **Spring vacation, no class**
-Mar 30 | Ensuring Code Quality | [Lecture 13: Ensuring Code Quality](lectures/lecture13.html)
+Mar 30 | Testing, code coverage | [Lecture 12: Testing](lectures/lecture12.html)
 Apr 1 | Team project progress milestone 2
 Apr 4 | Static Analysis | [Lecture 14: Static Analysis](lectures/lecture14.html)
-Apr 6 | **Exam 2** (in class)
+Apr 6 | 
 Apr 8 | Individual project progress milestone 2
-Apr 11 |
-Apr 13 |
+Apr 11 | Ensuring Code Quality | [Lecture 13: Ensuring Code Quality](lectures/lecture13.html)
+Apr 13 |**Exam 2** (in class)
 Apr 15 | Team project progress milestone 3
 Apr 18 |
 Apr 20 |
