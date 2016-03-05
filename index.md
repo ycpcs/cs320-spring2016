@@ -26,10 +26,14 @@ All information about the course will be posted here.
 * **Apr 22** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.
 * **Apr 22** - [Assignment 8](assign/assign08.html) describes the deliverables for the team project.
 * **Mar 24** - [Assignment 3](assign/assign03.html) (team project milestones) has been updated.  Specifically, SQL database functionality is not required for the second milestone (but *is* required for the third.)
-* **Mar 23** - Exam 2 will take place in class on Wednesday, April 6th.  It will be open book, but closed notes.  A practice exam is available on the [Practice Exams](practice/index.html) page.
-* **Mar 23** - [Assignment 7](assign/assign07.html) is due Friday, April 8th by 11:59 PM.  It is an individual assignment.
-* **Feb 17** - Exam 1 will be open book, but closed notes.  So, please bring your textbooks to the exam.
+* **Apr 4** - Exam 2 will take place in class on Monday, April 18th.  It will be open book, but closed notes.  A practice exam is available on the [Practice Exams](practice/index.html) page.
+* **Apr 11** - [Assignment 7](assign/assign07.html) is due Monday, April 18th by 11:59 PM.  It is an individual assignment.
+
 ­-->
+* **Mar 7** - [Assignment 4: Individual Project Milestones](assign/assign04.html) has been updated.  Specifically, **Milestone 1: Baseline** is now due on Wednesday, March 23rd.
+
+* **Mar 7** - [Assignment 3: Team Project Milestones](assign/assign03.html) has been updated.  Specifically, **Milestone 1: Minimum Working System** is now due on Monday, March 21st.
+
 * **Feb 17** - By (nearly) unanimous vote, exam 1 will be a take-home exam.  Exam 1 will be handed out in class on Friday, 2-26-16, and will be due at the start of class on Wednesday, March 9th.  Since this is a take-home exam, a practice exam will not be provided.
 
 * **Feb 10** - [Assignment 6](assign/assign06.html) is due Monday, Feb 22nd by 11:59 PM.

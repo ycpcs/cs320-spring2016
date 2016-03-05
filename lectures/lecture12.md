@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Testing"
+title: "CS320: Lecture 12: Testing"
 ---
 
 Testing
