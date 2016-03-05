@@ -32,7 +32,7 @@ All information about the course will be posted here.
 ­-->
 * **Mar 7** - [Assignment 4: Individual Project Milestones](assign/assign04.html) has been updated.  Specifically, **Milestone 1: Baseline** is now due on Wednesday, March 23rd.
 
-* **Mar 7** - [Assignment 3: Team Project Milestones](assign/assign03.html) has been updated.  Specifically, **Milestone 1: Minimum Working System** is now due on Monday, March 21st.
+* **Mar 7** - [Assignment 3: Team Project Milestones](assign/assign03.html) has been updated.  Specifically, **Milestone 1: Minimal Working System** is now due on Monday, March 21st.
 
 * **Feb 17** - By (nearly) unanimous vote, exam 1 will be a take-home exam.  Exam 1 will be handed out in class on Friday, 2-26-16, and will be due at the start of class on Wednesday, March 9th.  Since this is a take-home exam, a practice exam will not be provided.
 
