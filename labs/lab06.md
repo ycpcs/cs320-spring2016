@@ -5,13 +5,15 @@ title: "Lab 6: ORM"
 
 # Getting Started
 
-Download [CS320\_Lab06.zip](CS320_Lab06.zip). Import it into your Eclipse workspace (**File&rarr;Import...&rarr;General&rarr;Existing projects into workspace&rarr;Archive File**). You will see a project called **CS320\_Lab06** in the Package Explorer.
+Download [CS320\_Lab06.zip](CS320_Lab06.zip). Import it into your Eclipse workspace (**File&rarr;Import...&rarr;General&rarr;Existing projects into workspace&rarr;Archive File**). You will see a project called **CS320\_Lab06** in the Package Explorer.  (You will also need to have the **CS320\_Derby** project in your workspace, which should already be there from [Lab 4](lab04.html).)
 
-Start by creating the **test.db** file that creates the initial [books database](../lectures/lecture09.html).  (Note that there are some minor differences in the relations, specifically the addition of an **id** field to the **books** relation.)  Execute the **SqliteDatabase** class as a Java application: you should see the following output:
+Start by creating **test.db**, which is the [books database](../lectures/lecture09.html).  (Note that there are some minor differences in the relations, specifically the addition of an **id** field to the **books** relation.)  Execute the **DerbyDatabase** class as a Java application: you should see the following output:
 
     Creating tables...
     Loading initial data...
     Success!
+
+If you refresh your **CS320\_Lab06** project, you should see the **test.db** directory.
 
 You may work individually or with a small group.
 
@@ -19,7 +21,7 @@ You may work individually or with a small group.
 
 In the lab skeleton you will find a program called **TitleQuery** which demonstrates using an ORM interface to find all books that have the title entered by the user (along with the author information).
 
-Your task is very similar to [Lab 5](lab05.html), except that rather than directly executing database queries/statements, you will add methods to the **IDatabase** interface and implement them in **FakeDatabase** and **SqliteDatabase**.
+Your task is very similar to [Lab 5](lab05.html), except that rather than directly executing database queries/statements, you will add methods to the **IDatabase** interface and implement them in **FakeDatabase** and **DerbyDatabase**.
 
 Tasks:
 
@@ -34,7 +36,7 @@ For the first task, add the following method to **IDatabase**:
 
     public List<Pair<Author, Book>> findAuthorAndBookByAuthorLastName(String lastname);
 
-Implement it in **FakeDatabase** and **SqliteDatabase**.  Start by implementing the method in **FakeDatabase** (just have the method in **SqliteDatabase** throw an **UnsupportedOperationExecption**.)
+Implement it in **FakeDatabase** and **DerbyDatabase**.  Start by implementing the method in **FakeDatabase** (just have the method in **DerbyDatabase** throw an **UnsupportedOperationExecption**.)
 
 For the second task, do a query to see if the author exists.  If it doesn't, insert it.  (Note: you will want to have the database automatically assign an author id).  Then, use the author id to insert a new tuple into the books relation.  Note that the entire operation should be executed as part of a single transaction.
 
