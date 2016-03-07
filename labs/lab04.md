@@ -6,7 +6,7 @@ title: "Lab 4: SQL, Queries, Joins"
 Getting Started
 ===============
 
-Download [CS320\_Lab04.zip](CS320_Lab04.zip). Import it into your Eclipse workspace (**File-\>Import...-\>General-\>Existing projects into workspace-\>Archive File**). You will see a project called **CS320\_Lab04** in the Package Explorer.
+Download [CS320\_Derby.zip](../resources/CS320_Derby.zip) and [CS320\_Lab04.zip](CS320_Lab04.zip). Import them into your Eclipse workspace (**File&rarr;Import...&rarr;General&rarr;Existing projects into workspace&rarr;Archive File**). You will see projects called **CS320\_Derby** and **CS320\_Lab04** in the Package Explorer.  You will be running the **SQLDemo** class in the **CS320\_Lab04** project.
 
 Setting up the database
 =======================
@@ -50,7 +50,7 @@ Each query should be terminated with a semicolon (**;**). For example, here is s
 
 <pre>
 SQL> <b>select * from authors;</b>
-author_id author_lastname author_firstname
+AUTHOR_ID AUTHOR_LASTNAME AUTHOR_FIRSTNAME
 --------- --------------- ----------------
         1     Smallfinger             F.G.
         2       Whittlbey           W.H.J.
