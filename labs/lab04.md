@@ -6,7 +6,7 @@ title: "Lab 4: SQL, Queries, Joins"
 Getting Started
 ===============
 
-Download [CS320\_Derby.zip](CS320_Derby.zip) and [CS320\_Lab04.zip](CS320_Lab04.zip). Import them into your Eclipse workspace<br> (**File-\>Import...-\>General-\>Existing projects into workspace-\>Archive File**). You will see a projects called **CS320\_Derby** and **CS320\_Lab04** in the Package Explorer.  You will be running the **SQLDemo** class in the **CS320_Lab04** project.
+Download [CS320\_Derby.zip](../resources/CS320_Derby.zip) and [CS320\_Lab04.zip](CS320_Lab04.zip). Import them into your Eclipse workspace<br> (**File-\>Import...-\>General-\>Existing projects into workspace-\>Archive File**). You will see a projects called **CS320\_Derby** and **CS320\_Lab04** in the Package Explorer.  You will be running the **SQLDemo** class in the **CS320_Lab04** project.
 
 Setting up the database
 =======================
@@ -72,3 +72,5 @@ AUTHOR_ID AUTHOR_LASTNAME AUTHOR_FIRSTNAME
         5        Tacticus           Callus
 OK (5 rows(s))
 </pre>
+
+[Here is a great tutorial side for learning SQL](http://www.w3schools.com/sql/default.asp)
