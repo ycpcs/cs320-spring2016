@@ -55,7 +55,7 @@ Try executing some queries to retrieve the following information:
 -   the titles of all books written by Callus Tacticus
 -   the author name (first and last) and the ISBN number of the book with the title "First Flights in Witchcraft"
 -   attempt to insert a new book into the **books** table, with an **author_id** that does not appear in the **authors** table (this attempt should fail, due to specifying an invalid **foreign key** for **author_id**)
--   insert yourself as a new author in the the **authors** table (do not specify an author_id, Derby will do that for you, since author_id is the auto-generated primary key for the **authors** table)
+-   insert yourself as a new author in the the **authors** table (do not specify an author_id, Derby will do that for you, since **author_id** is the auto-generated primary key for the **authors** table)
 -   retrieve the **author_id** from the **authors** table for your entry
 -   insert a new book into the **books** table, using your new **author_id**
 

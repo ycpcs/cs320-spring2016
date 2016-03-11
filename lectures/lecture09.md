@@ -36,14 +36,14 @@ We can avoid this redundancy by splitting the database into two relations, **boo
 
 > The **books** relation:
 >
-> author\_id | title | ISBN
-> ---------- | ----- | ----
-> 1 | A History of Hats | 0-651-65165-4
-> 2 | Guide to Impossible Buildings | 82-234-5475-0
-> 3 | First Flights in Witchcraft | 5-9672-6521-X
-> 4 | Habits of the Wolves | 91-33-65168-X
-> 5 | Sieges and Survival | 0-651-65165-4
-> 5 | VENI VIDI VICI: A Soldier's Life | 84-15978-99-5
+> book\_id | author\_id | title | ISBN
+> ---- | ---------- | ----- | ----
+> 1 | 1 | A History of Hats | 0-651-65165-4
+> 2 | 2 | Guide to Impossible Buildings | 82-234-5475-0
+> 3 | 3 | First Flights in Witchcraft | 5-9672-6521-X
+> 4 | 4 | Habits of the Wolves | 91-33-65168-X
+> 5 | 5 | Sieges and Survival | 0-651-65165-4
+> 6 | 5 | VENI VIDI VICI: A Soldier's Life | 84-15978-99-5
 >
 > The **authors** relation:
 >
