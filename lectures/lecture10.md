@@ -39,7 +39,7 @@ A prepared statement may contain *placeholders* for information that will be "fi
 
 For example: here is a query that searches for books matching a particular title:
 
-    select authors.author_lname, authors.author_fname, books.title, books.isbn
+    select authors.author_lastname, authors.author_firstname, books.title, books.isbn
         from authors, books
         where authors.author_id = books.author_id
               and books.title = ?
