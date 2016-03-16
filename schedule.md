@@ -35,14 +35,14 @@ Mar 4 | **Winter Break, no class**
 Mar 7 | Web applications | [Lecture 8: Web applications](lectures/lecture08.html)
 Mar 9 | Web applications lab and in-class team project work | **Exam 1 DUE** (Take home exam due at beginning of class)
 Mar 11 | SQL Database and lab | [Lecture 9: Relational Databases](lectures/lecture09.html)
-Mar 14 | Database applications, JDBC | [Lecture 10: Database applications, JDBC](lectures/lecture10.html)
+Mar 14 | Database applications - JDBC | [Lecture 10: Database applications, JDBC](lectures/lecture10.html)
 Mar 16 | SQL / JDBC Labs / In-class team project work
 Mar 18 | SQL / JDBC Labs / In-class team project work
 Mar 21 | Team project milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Mar 23 | Individual project milestone 1:<br> **Baseline Prototype** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Mar 25 | **Spring vacation, no class**
 Mar 28 | **Spring vacation, no class**
-Mar 30 | ORM | [Lecture 11: ORM, Designing a Persistence Layer](lectures/lecture11.html) and ORM Lab
+Mar 30 | Database Applications - ORM (and ORM Lab) | [Lecture 11: ORM, Designing a Persistence Layer](lectures/lecture11.html)<br> [ORM Lab](./Labs/Lab06.html)
 Apr 1 | Team project milestone 2:<br> **Progress on Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Apr 4 | Testing, code coverage | [Lecture 12: Testing](lectures/lecture12.html)
 Apr 6 | Ensuring Code Quality | [Lecture 13: Ensuring Code Quality](lectures/lecture13.html)
