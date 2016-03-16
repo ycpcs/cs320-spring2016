@@ -16,12 +16,12 @@ All information about the course will be posted here.
 * [Assignments](assign/index.html)
 * [Labs](labs/index.html)
 * [Activities](activities.html)
-<!-- Just commenting out Practice Exams, in case we do a take home exam.
+<!-- Just commenting out Practice Exams, since we did take home exams.
 * [Practice Exams](practice/index.html)
 ­-->
 
 ## News
-<!-- Just commenting out last year's News - the dates have been updated for 2016.
+<!-- Commenting out last year's News - the dates have been updated for 2016.
 * **Apr 28** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is a self/peer evaluation for the team project.  They are both due Tuesday, May 10th by 11:59 PM.
 * **Apr 22** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.
 * **Apr 22** - [Assignment 8](assign/assign08.html) describes the deliverables for the team project.
