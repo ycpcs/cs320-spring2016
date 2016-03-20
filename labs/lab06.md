@@ -5,13 +5,15 @@ title: "Lab 6: ORM"
 
 # Getting Started
 
-Download [CS320\_Lab06.zip](CS320_Lab06.zip). Import it into your Eclipse workspace (**File&rarr;Import...&rarr;General&rarr;Existing projects into workspace&rarr;Archive File**). You will see a project called **CS320\_Lab06** in the Package Explorer.
+Download [CS320\_Lab06.zip](CS320_Lab06.zip). Import it into your Eclipse workspace (**File&rarr;Import...&rarr;General&rarr;Existing projects into workspace&rarr;Archive File**). You will see a project called **CS320\_Lab06** in the Package Explorer.   (You will also need to have the **CS320_Derby** project in your workspace, which should already be there from [Lab 4](lab04.html).)
 
-Start by creating the **test.db** file that creates the initial [books database](../lectures/lecture09.html).  (Note that there are some minor differences in the relations, specifically the addition of an **id** field to the **books** relation.)  Execute the **SqliteDatabase** class as a Java application: you should see the following output:
+Start by creating **test.db**, which is the [books database](../lectures/lecture09.html).  Execute the **DerbyDatabase** class as a Java application: you should see the following output:
 
     Creating tables...
     Loading initial data...
     Success!
+
+If you refresh your **CS320_Lab06** project, you should see the **test.db** directory.
 
 You may work individually or with a small group.
 
@@ -34,9 +36,9 @@ For the first task, add the following method to **IDatabase**:
 
     public List<Pair<Author, Book>> findAuthorAndBookByAuthorLastName(String lastname);
 
-Implement it in **FakeDatabase** and **SqliteDatabase**.  Start by implementing the method in **FakeDatabase** (just have the method in **SqliteDatabase** throw an **UnsupportedOperationExecption**.)
+Implement it in **FakeDatabase** and **DerbyDatabase**.  Start by implementing the method in **FakeDatabase** (just have the method in **DerbyDatabase** throw an **UnsupportedOperationExecption**.)
 
-For the second task, do a query to see if the author exists.  If it doesn't, insert it.  (Note: you will want to have the database automatically assign an author id).  Then, use the author id to insert a new tuple into the books relation.  Note that the entire operation should be executed as part of a single transaction.
+For the second task, do a query to see if the author exists.  If it doesn't, insert it.  (Note: you will want to allow the database to automatically assign an author id).  Then, use the author id to insert a new tuple into the books relation (again, the database will automatically assign a book id).  Note that the entire operation should be executed as part of a single transaction.
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
