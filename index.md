@@ -25,11 +25,12 @@ All information about the course will be posted here.
 * **Apr 28** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is a self/peer evaluation for the team project.  They are both due Tuesday, May 10th by 11:59 PM.
 * **Apr 22** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.
 * **Apr 22** - [Assignment 8](assign/assign08.html) describes the deliverables for the team project.
-* **Mar 24** - [Assignment 3](assign/assign03.html) (team project milestones) has been updated.  Specifically, SQL database functionality is not required for the second milestone (but *is* required for the third.)
 * **Apr 4** - Exam 2 will take place in class on Monday, April 18th.  It will be open book, but closed notes.  A practice exam is available on the [Practice Exams](practice/index.html) page.
-* **Apr 11** - [Assignment 7](assign/assign07.html) is due Monday, April 18th by 11:59 PM.  It is an individual assignment.
-
 ­-->
+* **Mar 23** - [Individual Project Milestone2](assign/assign04.html) is due Friday, April 8th.  This will be a 3-4 minute in-class demonstration of your progress since Milestone 1.
+
+* **Mar 23** - [Team Project Milestone 2](assign/assign03.html) is due Friday, April 1st.  This will be a 10-minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  SQL database functionality is not required for this milestone (but *is* required for the third.)
+
 * **Mar 7** - [Assignment 4: Individual Project Milestones](assign/assign04.html) has been updated.  Specifically, **Milestone 1: Baseline** is now due on Wednesday, March 23rd.
 
 * **Mar 7** - [Assignment 3: Team Project Milestones](assign/assign03.html) has been updated.  Specifically, **Milestone 1: Minimal Working System** is now due on Monday, March 21st.
