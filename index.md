@@ -16,6 +16,7 @@ All information about the course will be posted here.
 * [Assignments](assign/index.html)
 * [Labs](labs/index.html)
 * [Activities](activities.html)
+
 <!-- Just commenting out Practice Exams, since we did take home exams.
 * [Practice Exams](practice/index.html)
 ­-->
