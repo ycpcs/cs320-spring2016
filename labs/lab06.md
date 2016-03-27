@@ -21,7 +21,7 @@ You may work individually or with a small group.
 
 In the lab skeleton you will find a program called **TitleQuery** which demonstrates using an ORM interface to find all books that have the title entered by the user (along with the author information).
 
-Your task is very similar to [Lab 5](lab05.html), except that rather than directly executing database queries/statements, you will add methods to the **IDatabase** interface and implement them in **FakeDatabase** and **SqliteDatabase**.
+Your task is very similar to [Lab 5](lab05.html), except that rather than directly executing database queries/statements, you will add methods to the **IDatabase** interface and implement them in **FakeDatabase** and **DerbyDatabase**.
 
 Tasks:
 
