@@ -1,7 +1,8 @@
 baseurl: "http://ycpcs.github.io/cs320-spring2016"
 
 # Don - Comment out this on Windows (to preview)
-markdown: rdiscount
+#markdown: rdiscount
+kramdown: rdiscount
 
 # Don - Comment out this on Windows (to preview)
 highlighter: pygments
