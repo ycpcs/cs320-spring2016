@@ -28,6 +28,10 @@ All information about the course will be posted here.
 * **Apr 22** - [Assignment 8](assign/assign08.html) describes the deliverables for the team project.
 * **Apr 4** - Exam 2 will take place in class on Monday, April 18th.  It will be open book, but closed notes.  A practice exam is available on the [Practice Exams](practice/index.html) page.
 ­-->
+* **Mar 29** - Posted several new links on the [Resources page](./resources) that provide much helpful information on the various technology that you are using in the implementation of your projects.
+
+* **Mar 29** - Posted an extensive example project on the [Resources page](./resources) that incorporates the Web Applications lab solution (Lab03) with the ORM Lab solution (Lab06).  It provides a web application front-end to the ORM queries, as well as demonstrates the use of login session information, and incorporation of a SQL database persistence layer.
+
 * **Mar 23** - [Individual Project Milestone2](assign/assign04.html) is due Friday, April 8th.  This will be a 3-4 minute in-class demonstration of your progress since Milestone 1.
 
 * **Mar 23** - [Team Project Milestone 2](assign/assign03.html) is due Friday, April 1st.  This will be a 10-minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  SQL database functionality is not required for this milestone (but *is* required for the third.)
