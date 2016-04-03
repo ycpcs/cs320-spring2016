@@ -7,7 +7,7 @@ title: "Lecture 13: Ensuring Code Quality"
 
 Testing is the main way that we can ensure that the software is sufficiently free of defects.
 
-However, there are many other techniques and practices that are valuable.
+However, there are many other techniques and practices that are valuable to us.
 
 ## Code Inspections, Pair Programming
 
@@ -24,14 +24,16 @@ Advantages:
 Disadvantages:
 
 -  A thorough code inspection takes time.
+-  Code inspections can be very tedious.
 -  Developer time is expensive.
+-  Developers tend to be assigned to other tasks.
 
-Because code inspection is time consuming, it cannot be applied too frequently.  One idea is to conduct code inspection of only newly-written code.
+Because code inspection is time consuming, it should not be be applied too frequently.  One idea is to conduct code inspection of only newly-written code.
 
 Pair programming is a special case of code inspection.  In pair programming, all code (and unit tests) is written by a pair of developers, working together.  Basically, this is two people sitting at the same mouse/keyboard/monitor.
 
 Pair programming works like a code inspection that is applied continuously; there is always a second set of eyeballs looking out for problems.
 
-In general, we can reasonably expect code written using pair programming to contain fewer bugs that code written by a single developer.  One phenomenon that makes programming difficult is that it is often difficult to "see" a defect once it has been introduced; we often see what the "intent" of the code is, rather than looking at what the code actually does.  Pair programming takes advantage of the fact that two different people will have largely different "blind spots" - bugs that are "invisible".  I.e.:
+In general, we can reasonably expect code written using pair programming to contain fewer bugs than code written by a single developer.  One phenomenon that makes programming difficult is that it is often difficult to "see" a defect once it has been introduced; we often see what the "intent" of the code is, rather than looking at what the code actually does.  Pair programming takes advantage of the fact that two different people will have largely different "blind spots" - bugs that are "invisible", i.e.:
 
 <img style="width: 500px;" src="figures/blindSpots.png" alt="Blind spots">
