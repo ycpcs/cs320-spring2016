@@ -31,6 +31,8 @@ All information about the course will be posted here.
 
 * **Apr 4** - [Team Project Milestone 3](assign/assign03.html) is due Friday, April 15th.  This will be a 10-minute (max) in-class team presentation/demonstration of your team's progress since milestone 2.  SQL database functionality **is required** for this milestone.  A large majority of your classes, methods, test cases, and web page navigation should be implemented by milestone 3, as well.
 
+* **Apr 3** - Added JUnit Test cases to the Library project on the [Resources page](./resources) that provide examples for testing the Derby database queries without needing to have the servlet, controller, or JSP code implemented.
+
 * **Mar 29** - Posted several new links on the [Resources page](./resources) that provide much helpful information on the various technologies that you are using in the implementation of your projects.
 
 * **Mar 29** - Posted an extensive example project on the [Resources page](./resources) that incorporates the Web Applications lab solution (Lab03) with the ORM Lab solution (Lab06).  It provides a web application front-end to the ORM queries, as well as demonstrates the use of login session information, and incorporation of a SQL database persistence layer.

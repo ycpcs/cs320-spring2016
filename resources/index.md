@@ -21,7 +21,7 @@ Violet UML: [violetumleditor-2.1.0.jar](violetumleditor-2.1.0.jar)
 
 [CS320\_Derby.zip](CS320_Derby.zip) &mdash; Eclipse project with jarfiles for Apache Derby (relational database)
 
-[CS320\_Library\_Example\_Solution.zip](CS320_Library_Example_Solution.zip) &mdash; Eclipse project that ties the [Web Applications Lab](../labs/lab03.html) together with the [ORM Lab](../labs/lab06.html).  This application places a web front-end on the SQL transactions from Lab06, as well as provides examples for creating a Derby database from CSV files, how to use session information after login, and how to use JSTL to display a list of complex objects in a JSP.
+[CS320\_Library\_Example\_Solution.zip](CS320_Library_Example_With_JUnitTests_Solution.zip) &mdash; Eclipse project that ties the [Web Applications Lab](../labs/lab03.html) together with the [ORM Lab](../labs/lab06.html).  This application places a web front-end on the SQL transactions from Lab06, as well as provides examples for creating a Derby database from CSV files, how to use session information after login, and how to use JSTL to display a list of complex objects in a JSP.  It has also been updated with some example JUnit Tests for testing the Derby database queries.
 
 > <div class="callout"><b>NOTE: You are free to incorporate any of this code into your project(s) - as long as you cite the source.</b></div>
 
