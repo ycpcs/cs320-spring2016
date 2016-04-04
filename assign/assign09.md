@@ -28,7 +28,7 @@ Submit the code you developed for the project.
 Submit the report to Marmoset as **assign09report**.  Use *only* PDF format: do *not* upload a Microsoft Word or rich text document.
 
 <div class="callout">
-Your report <em>must</em> be submitted in **PDF format**.  Submissions in any other format may receive a grade of 0.
+Your report <em>must</em> be submitted in PDF format.  Submissions in any other format may receive a grade of 0.
 </div>
 
 Submit the code in a zip file to Marmoset as **assign09code**.  (Please submit a **zip file**: *not* a RAR file or any other archive format.)
