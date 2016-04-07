@@ -48,9 +48,9 @@ Apr 4 | Testing, code coverage | [Lecture 12: Testing](lectures/lecture12.html)
 Apr 6 | SQL Review
 Apr 8 | Individual project milestone 2:<br> **33% Progress** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Apr 11 | SQL Review and in-class project time
-Apr 13 | Ensuring Code Quality | [Lecture 13: Ensuring Code Quality](lectures/lecture13.html)
+Apr 13 | 
 Apr 15 | Team project milestone 3:<br> **50% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
-Apr 18 | **Exam 1 DUE** (Take home exam due at beginning of class)
+Apr 18 | Ensuring Code Quality | [Lecture 13: Ensuring Code Quality](lectures/lecture13.html) | **Exam 2 DUE** (Take home exam due at beginning of class)
 Apr 20 | 
 Apr 22 | Individual project milestone 3:<br> **67% Progress** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Apr 25 |Static Analysis | [Lecture 14: Static Analysis](lectures/lecture14.html)
