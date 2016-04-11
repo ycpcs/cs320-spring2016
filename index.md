@@ -28,13 +28,10 @@ All information about the course will be posted here.
 * **Apr 22** - [Assignment 8](assign/assign08.html) describes the deliverables for the team project.
 ­-->
 
-<<<<<<< HEAD
-=======
 * **Apr 11** - Updated the Library project on the [Resources page](./resources) to include a many-to-many relationship between the Books and Authors table by implementing a junction table.
 
 * **Apr 6** - By (nearly) unanimous vote, exam 2 will also be a take-home exam.  Exam 2 will be handed out at the end of class on Friday, 4-15-16, and will be due at the start of class on Monday, April 18th.  Since this is a take-home exam, a practice exam will not be provided.
 
->>>>>>> 00a36f2debefa3fa7e7a8b141ab98de79420bd37
 * **Apr 4** - [Team Project Milestone 3](assign/assign03.html) is due Friday, April 15th.  This will be a 10-minute (max) in-class team presentation/demonstration of your team's progress since milestone 2.  SQL database functionality **is required** for this milestone.  A large majority of your classes, methods, test cases, and web page navigation should be implemented by milestone 3, as well.
 
 * **Apr 3** - Added JUnit Test cases to the Library project on the [Resources page](./resources) that provide examples for testing the Derby database queries without needing to have the servlet, controller, or JSP code implemented.
