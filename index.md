@@ -26,8 +26,11 @@ All information about the course will be posted here.
 * **Apr 28** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is a self/peer evaluation for the team project.  They are both due Tuesday, May 10th by 11:59 PM.
 * **Apr 22** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.
 * **Apr 22** - [Assignment 8](assign/assign08.html) describes the deliverables for the team project.
-* **Apr 4** - Exam 2 will take place in class on Monday, April 18th.  It will be open book, but closed notes.  A practice exam is available on the [Practice Exams](practice/index.html) page.
 ­-->
+
+* **Apr 11** - Modified the Library project on the [Resources page](./resources) to have a many-to-many relationship between Books and Authors by adding a junction table (bookAuthors).
+
+* **Apr 8** - Exam 2 will be a take-home exam, handed out on Friday, 4-15-16 after the presentations, and will be due Monday, 4-18-16 at the beginning of class.
 
 * **Apr 4** - [Team Project Milestone 3](assign/assign03.html) is due Friday, April 15th.  This will be a 10-minute (max) in-class team presentation/demonstration of your team's progress since milestone 2.  SQL database functionality **is required** for this milestone.  A large majority of your classes, methods, test cases, and web page navigation should be implemented by milestone 3, as well.
 
