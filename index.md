@@ -17,7 +17,7 @@ All information about the course will be posted here.
 * [Labs](labs/index.html)
 * [Activities](activities.html)
 
-<!-- Just commenting out Practice Exams, since we did take home exams.
+<!-- Commented out Practice Exams, since we did take home exams.
 * [Practice Exams](practice/index.html)
 ­-->
 
@@ -27,6 +27,8 @@ All information about the course will be posted here.
 * **Apr 22** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.
 * **Apr 22** - [Assignment 8](assign/assign08.html) describes the deliverables for the team project.
 ­-->
+
+* **Apr 16** - [Individual Project Milestone3](assign/assign04.html) is due Friday, April 22nd.  This will be a 3-4 minute in-class demonstration of your progress since Milestone 2.
 
 * **Apr 11** - Updated the Library project on the [Resources page](./resources) to include a many-to-many relationship between the Books and Authors table by implementing a junction table.
 
