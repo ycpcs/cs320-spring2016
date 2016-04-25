@@ -54,7 +54,7 @@ Apr 18 | Ensuring Code Quality | [Lecture 13: Ensuring Code Quality](lectures/le
 Apr 20 | 
 Apr 22 | Individual project milestone 3:<br> **67% Progress** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Apr 25 | In-class Project Time
-Apr 27 | Guest Lecturer | Ronak Chawla from Becton Dickinson (KEC 117: Conference Room)
+Apr 27 | Guest Lecturer | Ronak Chawla from Becton Dickinson<br> (in KEC 117: Conference Room)
 Apr 29 | Team project milestone 4:<br> **95% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 May 2 | Static Analysis | [Lecture 14: Static Analysis](lectures/lecture14.html)
 May 4 | Individual project milestone 4:<br> **FINAL PROJECT DEMO** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
