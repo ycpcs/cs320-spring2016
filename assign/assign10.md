@@ -54,8 +54,8 @@ In an essay of 2-3 paragraphs, reflect on the process of working on your team pr
 Submitting
 ==========
 
-Upload your reflection in **plain text** or **PDF** format to Marmoset as **assign10reflection**.
+Upload your reflection in **PDF** format to Marmoset as **assign10reflection**.
 
 <div class="callout">
-Your reflection <em>must</em> be submitted in plain text or PDF format.  Submissions in any other format may receive a grade of 0.
+Your reflection <em>must</em> be submitted in PDF format.  Submissions in any other format may receive a grade of 0.
 </div>

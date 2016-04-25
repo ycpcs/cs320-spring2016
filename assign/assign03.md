@@ -28,7 +28,12 @@ The idea of a minimal working system is to create a working foundation early in 
 
 **Milestone 3: "75%" Working System, Persistence using SQL database**. Your team should demonstrate a working system that implements most of the major system requirements.  Also, Your team should demonstrate that there is a working implementation of the persistence interface that uses an SQL database to store and retrieve data (e.g., using Derby).  Note that it is not expected that the system has a high degree of "polish": the UI doesn't have to be beautiful, for example.  However, the features that are implemented should be functional and free of bugs.
 
-**Milestone 4: "95%" Working System**. Your team should demonstrate a working system that is nearly complete.  Nearly all of the required features should be implemented.  The system should have a reasonable degree of "polish".  Your team should be prepared to discuss what remains in order to reach a point where the system is complete.
+**Milestone 4: "95%" Working System**. Your team should demonstrate a working system that is nearly complete.  Nearly all of the required features should be implemented.  The system should have a reasonable degree of "polish".  Your team should be prepared to discuss what remains in order to reach a point where the system is complete.  Your presentation should be a condensed "dry run" of your final presentation, with a degree of structure and polish that is closer to the formal presentation that your team will give for its final demonstration.  The presentation for MS4 should include the following:
+* A slide on your SQL database schema, which should include your tables, the attributes in each table, and any relationships between the tables.  You can use the format shown in [Lecture 9](../lectures/lecture09.html).
+* A slide that lists the names of your SQL database queries.  Note that this should not include the SQL code, but rather method names, such as "getAllBooksByAuthor", along with a short description of each query.
+* A slide summarizing the current progress on your project, i.e., a list of features that have been implemented.
+* A slide summarizing the major technical challenges that your team faced, and how you overcame them.
+* A slide summarizing what you plan to accomplish before your final presentation on May 11th.
 
 ## Evaluation
 
