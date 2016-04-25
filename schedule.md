@@ -53,10 +53,10 @@ Apr 15 | Team project milestone 3:<br> **50% Working System** | [Assignment 3: T
 Apr 18 | Ensuring Code Quality | [Lecture 13: Ensuring Code Quality](lectures/lecture13.html)<br> **Exam 2 DUE** (Take home exam due at beginning of class)
 Apr 20 | 
 Apr 22 | Individual project milestone 3:<br> **67% Progress** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
-Apr 25 |Static Analysis | [Lecture 14: Static Analysis](lectures/lecture14.html)
-Apr 27 |
+Apr 25 | In-class Project Time
+Apr 27 | Guest Lecturer | Ronak Chawla from Becton Dickinson (KEC 117: Conference Room)
 Apr 29 | Team project milestone 4:<br> **95% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
-May 2 |
+May 2 | Static Analysis | [Lecture 14: Static Analysis](lectures/lecture14.html)
 May 4 | Individual project milestone 4:<br> **FINAL PROJECT DEMO** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 May 6 | **Finals week, no class**<br>Team Project Code & Report Due<br>Individual Project Code & Report Due | <br> [Assignment 8: Team Project Deliverables](assign/assign08.html)<br> [Assignment 9: Individual Project Deliverables](assign/assign09.html)
 May 10 | **Finals week, no class**<br>Team Project Reflection Due<br>Team Project Self/Peer Evaluation Due | [Assignment 10: Team Project Reflection](assign/assign10.html)<br> [Assignment 11: Team Project Self/Peer Evaluation](assign/assign11.html)
